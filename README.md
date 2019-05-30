@@ -1,7 +1,7 @@
 <p align="center">
  <img src="images/codebreakers_logo.png" alt="KJSCE_code_breakers"/>
 </p>
-<a name="top"> </a><h1>[<span style="color:red">Slogan</span>] <b> | </b> [<span style="color:red">Experiment</span>] <b> | </b> [<span style="color:red">Developer</span>] <b> | </b> [<span style="color:red">Formula</span>] <b> | </b> [<span style="color:red">Contact</span>] </h1>
+<a name="top"></a><h1><span style="color:red">Slogan</span> <b></b><span style="color:red">Experiment</span><b></b><span style="color:red">Developer</span><b></b><span style="color:red">Formula</span><b></b><span style="color:red">Contact</span></h1>
 # Slogan
 <b> <span style="color:orange"> From "bore" plot to "bode" plot </span> </b>
 <div align="right">
