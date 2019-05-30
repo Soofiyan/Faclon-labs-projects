@@ -32,11 +32,14 @@
 <b> <span style = "color:orange"> For testing of higher temperatures we can't test by keeping pt100 at high temperatures so we instead use resistors for testing. By adding appropriate resistors and matching the values in the given conversion table and thus ensuring the corresponding temperatures.
 <b><span style="color:violet"> <br> <a href = "https://www.intech.co.nz/products/temperature/typert.html"> Link for conversion table</span></b> <br/></a>
  
-<b> A. Aditya Panchal | <b> B. Amogh Joshi| <b>  C. Soofiyan Atar </b> |<b> D. Gopal Sonune <b>
+<b> Resistance between RTD+ and RTD- | <b> Resistance between RTD+ and Force+| <b>  Theoritical temperature difference </b> |<b> Practical temperature difference <b>
 :--|:--|:-:|:-:
-<img src="images/FB_IMG_1479709605932.jpg"/> | <img src="images/amogh.png"/> |<img src="images/soofiyan 12.19.24 AM.png" alt = "Soofiyan"/> |<img src="images/IMG_20160323_100406.jpg" alt = "Gopal Sonune"/>
-<span style="color:orange"> IT department(student)</span> | <span style="color:orange"> Etrx department(student)</span> | <span style="color:orange"> Extc department(student)</span> | <span style="color:orange"> Comps department(professor)</span>
-
+105| 0 | 105 | 105
+105| 10 | 95 | 95
+202| 39 | 163 | 162
+202| 78 | 124 | 122
+202| 65 | 137 | 139
+202| 75 | 127 | 129
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
