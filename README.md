@@ -46,32 +46,9 @@
 <br/>
 <hr>
 
-<a name="Formula"></a>
-## Formula
-<b> PID controller</b>
-
-<img src="images/equation.gif" width="500px;" height=100px;/><br /><sub><b>
-
-<span style="color:violet"><br>kp is the proportional gain<br/>
-<br>ki is the integrating gain<br/>
-<br>kd is the diffrentiating gain<br/>
-<br>e(t) is the error term </span><br/>
-
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
-
-<a name="Contact"></a>
-## Contact
-<b> Name | <b> Faculty/Student |<b>  Phone | <b> Email </b>
-:--|:--|:-:|:--|:-:
-<span style="color:orange">Gopal Sonune | Faculty | +91 9702372735 | gopal.s@somaiya.edu
-<span style="color:orange">Amogh Joshi | Student | +91 9819012516 | amogh.joshi@somaiya.edu
-<span style="color:orange">Soofiyan Atar | Student | +91 8425932900 | soofiyan.a@somaiya.edu
-<span style="color:orange">Aditya Panchal | Student | +91 9619840377 | panchal.ah@somaiya.edu
-
+<a name="Steps helpful while debugging"></a>
+## Steps helpful while debugging
+<b>1. If showing Low or High threshold error then please check that 24 and 3 terminals are properly open circuited or not and also check with another max31865 breakout board.<br>2. If showing "REFIN- > 0.85 x Bias" or "REFIN- < 0.85 x Bias - FORCE- open" or "RTDIN- < 0.85 x Bias - FORCE- open" then check the proper connection of spi pins corresponding to the spi pins of arduino pins as well.<br>3. If showing high resistances values please check that in code if you have changes the connection for 3WIRE.<br>4. If showing low resistance values then check the connection for VCC and ground</b>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
