@@ -2,7 +2,7 @@
  <img src="images/codebreakers_logo.png" alt="Vlabs Boot Camp"/><br>
 <a href="https://www.somaiya.edu/en">Go To Somaiya Website</a>
 </p>
-# <h1 align="center"> [**Slogan**](#Slogan) <b> | </b> [**Experiments**](#Experiments) <b> | </b> [**Equations**](#Equations) <b> | </b> [**Team Details**](#Team Details) <b> | </b> [**Team Members**](#Team Members) <b> | </b>  [**Contact**](#contact) <a name="top">-</a>  </h1>
+<h1 align="center"> [**Slogan**](#Slogan) <b> | </b> [**Experiments**](#Experiments) <b> | </b> [**Equations**](#Equations) <b> | </b> [**Team Details**](#Team Details) <b> | </b> [**Team Members**](#Team Members) <b> | </b>  [**Contact**](#contact) <a name="top">-</a>  </h1>
 
 </h2>
 
