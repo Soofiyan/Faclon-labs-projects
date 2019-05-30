@@ -6,7 +6,8 @@
 
 <a name="Guide"></a>
 # Guide
-<b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Click the link for the guide to adafruit connection and code explanation</span></b> <br/></a>
+<b> <span style="color:orange"> Click the link below for the guide to adafruit connection and code explanation </span> </b>
+<b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Link</span></b> <br/></a>
 
 <a name="Experiment"></a>
 # Experiment
