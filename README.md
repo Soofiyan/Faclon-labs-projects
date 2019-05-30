@@ -1,66 +1,69 @@
 <p align="center">
- <img src="images/codebreakers_logo.png" alt="Vlabs Boot Camp"/><br>
-<a href="https://www.somaiya.edu/en">Go To Somaiya Website</a>
+ <img src="images/codebreakers_logo.png" alt="KJSCE_code_breakers"/>
 </p>
-<h1 align="center"> [**Slogan**](#Slogan) <b> | </b> [**Experiments**](#Experiments) <b> | </b> [**Equations**](#Equations) <b> | </b> [**Team Details**](#Team Details) <b> | </b> [**Team Members**](#Team Members) <b> | </b>  [**Contact**](#contact) <a name="top">-</a>  </h1>
-
-</h2>
-
-<a name="Slogan"></a>
-## Slogan
-From bore plot to bode plot.
+<a name="top"> </a><h1>[**<span style="color:red">Slogan</span>**](#Slogan) <b> | </b> [**<span style="color:red">Experiment</span>**](#experiment) <b> | </b> [**<span style="color:red">Developer</span>**](#Developer) <b> | </b> [**<span style="color:red">Formula</span>**](#Formula) <b> | </b> [**<span style="color:red">Contact</span>**](#contact) </h1>
+# Slogan
+<b> <span style="color:orange"> From "bore" plot to "bode" plot </span> </b>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
 
 <a name="Experiment"></a>
-
-## Experiment
-
-PID controller using temperature sensor as feedback.
-
-<a name="Equation"></a>
-
-## Equation
-<img src="/images/equation.gif">
-
-Here,<br>
-K<sub>p</sub> is Proportional gain <br>
-K<sub>i</sub> is Integral gain <br>
-K<sub>d</sub> is Derivative gain <br>
-
-
-<a name="Team Details"></a>
-
-## Team Details
-
-
-<b> Sr. No. | <b> Name | <b>  Contact Number |<b> E-mail </b>
-:--|:--|:-:|:--|:-:
-1 | Gopal Sonune | 9702372735 | gopal.s@somaiya.edu
-2 | Aditya Panchal |9619840377 | panchal.ah@somaiya.edu
-3 | Soofiyan Atar | 8425932900 | soofiyan.a@somaiya.edu
-4 | Amogh Joshi | 9819012516 | amogh.joshi@somaiya.edu
-<a name="Team Members"></a>
+# Experiment
+<b> <span style="color:orange"> PID controller using temperature sensor as a feedback </span> </b>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
+<br/>
+<hr>
 
-## Team Members
+<a name="Developer"></a>
+## Developer
+<b> All developers are from K.J. Somaiya College of engineering </b>
+<b><span style="color:violet"> <br> <a href = "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwimkNWI36fgAhWKwI8KHU2sDdQQFjAAegQIGBAB&url=https%3A%2F%2Fkjsce.somaiya.edu%2Fkjsce%3F%2Fkjsce&usg=AOvVaw3-wuz9mgsOCLkBQXvM_6U4"> Click the link of the college website</span></b> <br/></a>
 
-<!-- ALL-Guest Speakers List :START - Do not remove or modify this section -->
- <img src="/images/aditya.jpg" width="200px;" heaight=50px;/><br /><sub> <b>Aditya Panchal </b> <br>SY BTech <br> <b> KJSCE </sub> </b> <br /> | <img src="/images/soofiyan.png" width="200px" /><br /><sub> <b> Soofiyan Atar </b> <br> TY BTech <br> <b> KJSCE </b>  </sub> <br /> | <img src="/images/amogh.JPG" width="200px;"/><br /><sub> <b>Amogh Joshi </b> <br> TY BTech <br> <b> KJSCE </b> </sub> <br /> | <img src="images/gopalsir.jpg" width="200px;"/><br /><sub> <b> Gopal Sonune </b> <br> Faculty <br><b> KJSCE </b> </sub>
- :---:|:---:|:---:|:---:
-<!-- Guest Speakers List :END -->
+<b> A. Aditya Panchal | <b> B. Amogh Joshi| <b>  C. Soofiyan Atar </b> |<b> D. Gopal Sonune <b>
+:--|:--|:-:|:-:
+<img src="images/FB_IMG_1479709605932.jpg"/> | <img src="images/amogh.png"/> |<img src="images/soofiyan 12.19.24 AM.png" alt = "Soofiyan"/> |<img src="images/IMG_20160323_100406.jpg" alt = "Gopal Sonune"/>
+<span style="color:orange"> IT department(student)</span> | <span style="color:orange"> Etrx department(student)</span> | <span style="color:orange"> Extc department(student)</span> | <span style="color:orange"> Comps department(professor)</span>
+
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
+<br/>
+<hr>
 
-<a name="contact"></a>
+<a name="Formula"></a>
+## Formula
+<b> PID controller</b>
+
+<img src="images/equation.gif" width="500px;" height=100px;/><br /><sub><b>
+
+<span style="color:violet"><br>kp is the proportional gain<br/>
+<br>ki is the integrating gain<br/>
+<br>kd is the diffrentiating gain<br/>
+<br>e(t) is the error term </span><br/>
+
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
+
+<a name="Contact"></a>
 ## Contact
-##### Advisory Members
-+ Gopal Sonune, Faculty
-+ Aditya Panchal, SY BTech
-+ Soofiyan Atar, TY BTech
-+ Amogh Joshi, TY BTech
+<b> Name | <b> Faculty/Student |<b>  Phone | <b> Email </b>
+:--|:--|:-:|:--|:-:
+<span style="color:orange">Gopal Sonune | Faculty | +91 9702372735 | gopal.s@somaiya.edu
+<span style="color:orange">Amogh Joshi | Student | +91 9819012516 | amogh.joshi@somaiya.edu
+<span style="color:orange">Soofiyan Atar | Student | +91 8425932900 | soofiyan.a@somaiya.edu
+<span style="color:orange">Aditya Panchal | Student | +91 9619840377 | panchal.ah@somaiya.edu
+
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
+<br/>
+<hr>
