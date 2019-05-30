@@ -8,6 +8,8 @@
 # Guide
 <b> <span style="color:orange"> Click on the below link for the guide to adafruit connection and code explanation </span> </b>
 <b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Link</span></b> <br/></a>
+<br/>
+<hr>
 
 <a name="What to do!"></a>
 # What to do!
