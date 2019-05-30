@@ -48,7 +48,7 @@
 
 <a name="Steps helpful while debugging"></a>
 ## Steps helpful while debugging
-<b>1. If showing Low or High threshold error then please check that 24 and 3 terminals are properly open circuited or not and also check with another max31865 breakout board.<br>2. If showing "REFIN- > 0.85 x Bias" or "REFIN- < 0.85 x Bias - FORCE- open" or "RTDIN- < 0.85 x Bias - FORCE- open" then check the proper connection of spi pins corresponding to the spi pins of arduino pins as well.<br>3. If showing high resistances values please check that in code if you have changes the connection for 3WIRE.<br>4. If showing low resistance values then check the connection for VCC and ground</b>
+<b>1. If showing Low or High threshold error then please check that 24 and 3 terminals are properly open circuited or not and also check with another max31865 breakout board.<br>2. If showing "REFIN- > 0.85 x Bias" or "REFIN- < 0.85 x Bias - FORCE- open" or "RTDIN- < 0.85 x Bias - FORCE- open" then check the proper connection of spi pins corresponding to the spi pins of arduino pins as well.<br>3. If showing high resistance values please check that in code if you have changes the connection for 3WIRE.<br>4. If showing low resistance values then check the connection for VCC and ground</b>
 
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
