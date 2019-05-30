@@ -1,5 +1,6 @@
 <p align="center">
- <img src="images/codebreakers_logo.png" alt="KJSCE_code_breakers"/>
+ <img src="Images/adafruit_products_3wired.jpg" alt="KJSCE_code_breakers"/>
+ <img src="Images/adafruit_pt100.jpg" alt="KJSCE_code_breakers"/>
 </p>
 <a name="top"></a><h1> <span style="color:red"> Slogan </span> <b> </b> <span style="color:red"> Experiment </span> <b> </b> <span style="color:red"> Developer </span> <b> </b> <span style="color:red"> Formula </span> <b> </b> <span style="color:red"> Contact </span> </h1>
 # Slogan
