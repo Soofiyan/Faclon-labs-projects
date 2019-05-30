@@ -3,13 +3,8 @@
  <img src="Images/adafruit_pt100.jpg" alt="KJSCE_code_breakers"/>
 </p>
 <a name="top"></a><h1> <span style="color:red"> Adafruit guide for max 31865 with pt100 sensor</span> <b> </b> <span style="color:red"> Experiment </span> <b> </b> <span style="color:red"> Developer </span> <b> </b> <span style="color:red"> Formula </span> <b> </b> <span style="color:red"> Contact </span> </h1>
+<a name="Guide"></a>
 # Guide
-<b> <span style="color:orange"> From "bore" plot to "bode" plot </span> </b>
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
 <b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Click the link of the college website</span></b> <br/></a>
 
 <a name="Experiment"></a>
