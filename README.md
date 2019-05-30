@@ -6,22 +6,26 @@
 
 <a name="Guide"></a>
 # Guide
-<b> <span style="color:orange"> Click the link below for the guide to adafruit connection and code explanation </span> </b>
+<b> <span style="color:orange"> Click on the below link for the guide to adafruit connection and code explanation </span> </b>
 <b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Link</span></b> <br/></a>
 
-<a name="Experiment"></a>
-# Experiment
-<b> <span style="color:orange"> PID controller using temperature sensor as a feedback </span> </b>
+<a name="What to do!"></a>
+# What to do!
+<b> <span style="color:orange"> For 3 wired pt100, we have to first short the 2/3 Wire terminals and also open circuit the 24 terminal. Please check the circuit connection for these soldered terminals. Soldering of all the connection for spi pins are preferable.   </span> </b>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
 <br/>
 <hr>
 
-<a name="Developer"></a>
-## Developer
-<b> All developers are from K.J. Somaiya College of engineering </b>
-<b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Click the link of the college website</span></b> <br/></a>
+<a name="What not to do!"></a>
+## What not to do!
+<b> <span style="color:orange"> Do not use 3 wired connection as a 4wire pt100 by shorting the red wired connections. If we do the connection of 4 wired then the resistance of the Force+ and RTD+ does not get subtracted by the differnece of RTD+  and RTD- resistances. Thus wire 3 wired connection only for 3 wired pt100. </span> </b>
+<div align="right">
+    <b><a href="#top">↥ back to top</a></b>
+</div>
+<br/>
+<hr>
 
 <b> A. Aditya Panchal | <b> B. Amogh Joshi| <b>  C. Soofiyan Atar </b> |<b> D. Gopal Sonune <b>
 :--|:--|:-:|:-:
