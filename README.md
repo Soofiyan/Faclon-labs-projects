@@ -5,14 +5,14 @@
 <a name="top"></a><h1> <span style="color:red"> Adafruit guide for max 31865 with pt100 sensor</span> <b> </b> <span style="color:red"> Experiment </span> <b> </b> <span style="color:red"> Developer </span> <b> </b> <span style="color:red"> Formula </span> <b> </b> <span style="color:red"> Contact </span> </h1>
 
 <a name="Guide"></a>
-# Guide
+## Guide
 <b> <span style="color:orange"> Click on the below link for the guide to adafruit connection and code explanation </span> </b>
 <b><span style="color:violet"> <br> <a href = "https://learn.adafruit.com/adafruit-max31865-rtd-pt100-amplifier/overview"> Link</span></b> <br/></a>
 <br/>
 <hr>
 
 <a name="What to do!"></a>
-# What to do!
+## What to do!
 <b> <span style="color:orange"> For 3 wired pt100, we have to first short the 2/3 Wire terminals and also open circuit the 24 terminal. Please check the circuit connection for these soldered terminals. Soldering of all the connection for spi pins are preferable.   </span> </b>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
