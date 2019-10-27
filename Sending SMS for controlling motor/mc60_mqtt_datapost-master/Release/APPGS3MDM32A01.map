@@ -1,0 +1,1673 @@
+Archive member included because of file (symbol)
+
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+                              ./custom/fota/src/fota_ftp.o (Ql_FS_Open)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+                              ./custom/fota/src/fota_main.o (Ql_FOTA_Init)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+                              ./custom/main.o (Ql_GPIO_Init)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+                              ./custom/fota/src/fota_main.o (Ql_GPRS_GetPDPContextId)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+                              ./example/nema_pro.o (Ql_IIC_Write)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                              ./ril/src/ril_sms.o (LIB_SMS_IsValidHexStr)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+                              ./ril/src/ril_bluetooth.o (Ql_MEM_Alloc)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+                              D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o) (api_notsup)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                              ./ril/src/ril_bluetooth.o (Ql_Debug_Trace)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+                              ./custom/config/sys_config.o (proc_reserved2)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                              ./custom/config/sys_config.o (proc_reserved1)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+                              ./custom/fota/src/fota_http.o (Ql_SOC_CreateEx)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                              ./ril/src/Ril_dtmf.o (Ql_atof)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+                              ./ril/src/ril_ftp.o (Ql_Sleep)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                              ./custom/main.o (Ql_OS_GetMessage)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+                              ./custom/fota/src/fota_http.o (Ql_Timer_Register)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                              ./custom/main.o (Ql_UART_Register)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+                              ./custom/main.o (Ql_WTD_Start)
+D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ocpu_init.o)
+                              D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o) (_OCPU_InitUserMem)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                              D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o) (memcpy)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                              ./ril/src/ril_alarm.o (memset)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                              ./custom/fota/src/fota_http.o (__aeabi_uidiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                              D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o) (__aeabi_idiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                              ./ril/src/Ril_dtmf.o (__aeabi_d2iz)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                              ./ril/src/ril_location.o (__aeabi_d2f)
+
+Allocating common symbols
+Common symbol       size              file
+
+Ql_snprintf         0x4               D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+Ql_sprintf          0x4               D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+Ql_Debug_Trace      0x4               D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+SecureDataStringLen
+                    0x4               ./ril/src/ril_system.o
+u4OverflowPkt       0x4               ./example/nema_pro.o
+Ql_vsprintf         0x4               D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+Ql_sscanf           0x4               D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+rx_state            0x1               ./example/nema_pro.o
+g_comingCall        0x124             ./ril/src/ril_telephony.o
+Fota_gprsCfg        0xb0              ./custom/fota/src/fota_main.o
+FotaConfig          0x10              ./custom/fota/src/fota_main.o
+id_que              0x600             ./example/nema_pro.o
+wtdID               0x4               ./custom/main.o
+u4PktInQueue        0x4               ./example/nema_pro.o
+id_que_tail         0x2               ./example/nema_pro.o
+rssi                0x4               ./custom/main.o
+id_que_head         0x2               ./example/nema_pro.o
+httpMainContext     0x234             ./custom/fota/src/fota_http.o
+rx_que              0x8000            ./example/nema_pro.o
+ber                 0x4               ./custom/main.o
+rd_buf              0x100             ./example/nema_pro.o
+rx_que_head         0x2               ./example/nema_pro.o
+u4SyncPkt           0x4               ./example/nema_pro.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .data          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .bss           0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .init          0x00000000        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .fini          0x00000000        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .ARM.attributes
+                0x00000000       0x16 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+ .text          0x00000000      0x128 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .data          0x00000000        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .bss           0x00000000       0x1c c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .init_array    0x00000000        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .fini_array    0x00000000        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .eh_frame      0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .jcr           0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .tm_clone_table
+                0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+ .data          0x00000000        0x0 ./ril/src/Ril_dtmf.o
+ .text          0x00000000      0x534 ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_alarm.o
+ .bss           0x00000000        0x0 ./ril/src/ril_alarm.o
+ .rodata        0x00000000       0x50 ./ril/src/ril_alarm.o
+ .rodata.str1.4
+                0x00000000       0x90 ./ril/src/ril_alarm.o
+ .comment       0x00000000       0x31 ./ril/src/ril_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_atResponse.o
+ .text          0x00000000      0xae4 ./ril/src/ril_audio.o
+ .data          0x00000000        0x1 ./ril/src/ril_audio.o
+ .rodata.str1.4
+                0x00000000      0x198 ./ril/src/ril_audio.o
+ .data          0x00000000        0x0 ./ril/src/ril_custom.o
+ .text          0x00000000      0xfcc ./ril/src/ril_ftp.o
+ .data          0x00000000        0x0 ./ril/src/ril_ftp.o
+ .bss           0x00000000        0x0 ./ril/src/ril_ftp.o
+ .rodata.str1.4
+                0x00000000      0x2c0 ./ril/src/ril_ftp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_ftp.o
+ .data          0x00000000        0x0 ./ril/src/ril_gps.o
+ .text          0x00000000      0x61c ./ril/src/ril_http.o
+ .data          0x00000000        0x0 ./ril/src/ril_http.o
+ .rodata        0x00000000       0x98 ./ril/src/ril_http.o
+ .rodata.str1.4
+                0x00000000       0x88 ./ril/src/ril_http.o
+ .bss           0x00000000        0x0 ./ril/src/ril_init.o
+ .data          0x00000000        0x0 ./ril/src/ril_location.o
+ .data          0x00000000        0x0 ./ril/src/ril_network.o
+ .bss           0x00000000        0x0 ./ril/src/ril_network.o
+ .data          0x00000000        0x0 ./ril/src/ril_ntp.o
+ .data          0x00000000        0x0 ./ril/src/ril_sim.o
+ .bss           0x00000000        0x0 ./ril/src/ril_sim.o
+ .text          0x00000000     0x1730 ./ril/src/ril_sms.o
+ .data          0x00000000        0x0 ./ril/src/ril_sms.o
+ .bss           0x00000000        0x1 ./ril/src/ril_sms.o
+ .rodata.str1.4
+                0x00000000       0xec ./ril/src/ril_sms.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_sms.o
+ .data          0x00000000        0x0 ./ril/src/ril_system.o
+ .text          0x00000000      0x2cc ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_telephony.o
+ .bss           0x00000000        0x0 ./ril/src/ril_telephony.o
+ .rodata.str1.4
+                0x00000000       0x48 ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_urc.o
+ .data          0x00000000        0x0 ./ril/src/ril_util.o
+ .bss           0x00000000        0x0 ./ril/src/ril_util.o
+ .text          0x00000000        0x0 ./example/Example_gps_iic.o
+ .data          0x00000000        0x0 ./example/Example_gps_iic.o
+ .bss           0x00000000        0x0 ./example/Example_gps_iic.o
+ .comment       0x00000000       0x31 ./example/Example_gps_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/Example_gps_iic.o
+ .text          0x00000000        0x0 ./example/example_adc.o
+ .data          0x00000000        0x0 ./example/example_adc.o
+ .bss           0x00000000        0x0 ./example/example_adc.o
+ .comment       0x00000000       0x31 ./example/example_adc.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_adc.o
+ .text          0x00000000        0x0 ./example/example_alarm.o
+ .data          0x00000000        0x0 ./example/example_alarm.o
+ .bss           0x00000000        0x0 ./example/example_alarm.o
+ .comment       0x00000000       0x31 ./example/example_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_alarm.o
+ .text          0x00000000        0x0 ./example/example_audio.o
+ .data          0x00000000        0x0 ./example/example_audio.o
+ .bss           0x00000000        0x0 ./example/example_audio.o
+ .comment       0x00000000       0x31 ./example/example_audio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_audio.o
+ .text          0x00000000        0x0 ./example/example_bluetooth.o
+ .data          0x00000000        0x0 ./example/example_bluetooth.o
+ .bss           0x00000000        0x0 ./example/example_bluetooth.o
+ .comment       0x00000000       0x31 ./example/example_bluetooth.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_bluetooth.o
+ .text          0x00000000        0x0 ./example/example_call.o
+ .data          0x00000000        0x0 ./example/example_call.o
+ .bss           0x00000000        0x0 ./example/example_call.o
+ .comment       0x00000000       0x31 ./example/example_call.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_call.o
+ .text          0x00000000        0x0 ./example/example_clk.o
+ .data          0x00000000        0x0 ./example/example_clk.o
+ .bss           0x00000000        0x0 ./example/example_clk.o
+ .comment       0x00000000       0x31 ./example/example_clk.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_clk.o
+ .text          0x00000000        0x0 ./example/example_csd.o
+ .data          0x00000000        0x0 ./example/example_csd.o
+ .bss           0x00000000        0x0 ./example/example_csd.o
+ .comment       0x00000000       0x31 ./example/example_csd.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_csd.o
+ .text          0x00000000        0x0 ./example/example_download_epo.o
+ .data          0x00000000        0x0 ./example/example_download_epo.o
+ .bss           0x00000000        0x0 ./example/example_download_epo.o
+ .comment       0x00000000       0x31 ./example/example_download_epo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_download_epo.o
+ .text          0x00000000        0x0 ./example/example_dtmf.o
+ .data          0x00000000        0x0 ./example/example_dtmf.o
+ .bss           0x00000000        0x0 ./example/example_dtmf.o
+ .comment       0x00000000       0x31 ./example/example_dtmf.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_dtmf.o
+ .text          0x00000000        0x0 ./example/example_eint.o
+ .data          0x00000000        0x0 ./example/example_eint.o
+ .bss           0x00000000        0x0 ./example/example_eint.o
+ .comment       0x00000000       0x31 ./example/example_eint.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_eint.o
+ .text          0x00000000        0x0 ./example/example_file.o
+ .data          0x00000000        0x0 ./example/example_file.o
+ .bss           0x00000000        0x0 ./example/example_file.o
+ .comment       0x00000000       0x31 ./example/example_file.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_file.o
+ .text          0x00000000        0x0 ./example/example_float_math.o
+ .data          0x00000000        0x0 ./example/example_float_math.o
+ .bss           0x00000000        0x0 ./example/example_float_math.o
+ .comment       0x00000000       0x31 ./example/example_float_math.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_float_math.o
+ .text          0x00000000        0x0 ./example/example_fota_ftp.o
+ .data          0x00000000        0x0 ./example/example_fota_ftp.o
+ .bss           0x00000000        0x0 ./example/example_fota_ftp.o
+ .comment       0x00000000       0x31 ./example/example_fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_ftp.o
+ .text          0x00000000        0x0 ./example/example_fota_http.o
+ .data          0x00000000        0x0 ./example/example_fota_http.o
+ .bss           0x00000000        0x0 ./example/example_fota_http.o
+ .comment       0x00000000       0x31 ./example/example_fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_http.o
+ .text          0x00000000        0x0 ./example/example_ftp.o
+ .data          0x00000000        0x0 ./example/example_ftp.o
+ .bss           0x00000000        0x0 ./example/example_ftp.o
+ .comment       0x00000000       0x31 ./example/example_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_ftp.o
+ .text          0x00000000        0x0 ./example/example_gpio.o
+ .data          0x00000000        0x0 ./example/example_gpio.o
+ .bss           0x00000000        0x0 ./example/example_gpio.o
+ .comment       0x00000000       0x31 ./example/example_gpio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gpio.o
+ .text          0x00000000        0x0 ./example/example_gps.o
+ .data          0x00000000        0x0 ./example/example_gps.o
+ .bss           0x00000000        0x0 ./example/example_gps.o
+ .comment       0x00000000       0x31 ./example/example_gps.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gps.o
+ .text          0x00000000        0x0 ./example/example_http.o
+ .data          0x00000000        0x0 ./example/example_http.o
+ .bss           0x00000000        0x0 ./example/example_http.o
+ .comment       0x00000000       0x31 ./example/example_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_http.o
+ .text          0x00000000        0x0 ./example/example_https.o
+ .data          0x00000000        0x0 ./example/example_https.o
+ .bss           0x00000000        0x0 ./example/example_https.o
+ .comment       0x00000000       0x31 ./example/example_https.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_https.o
+ .text          0x00000000        0x0 ./example/example_iic.o
+ .data          0x00000000        0x0 ./example/example_iic.o
+ .bss           0x00000000        0x0 ./example/example_iic.o
+ .comment       0x00000000       0x31 ./example/example_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_iic.o
+ .text          0x00000000        0x0 ./example/example_location.o
+ .data          0x00000000        0x0 ./example/example_location.o
+ .bss           0x00000000        0x0 ./example/example_location.o
+ .comment       0x00000000       0x31 ./example/example_location.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_location.o
+ .text          0x00000000        0x0 ./example/example_memory.o
+ .data          0x00000000        0x0 ./example/example_memory.o
+ .bss           0x00000000        0x0 ./example/example_memory.o
+ .comment       0x00000000       0x31 ./example/example_memory.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_memory.o
+ .text          0x00000000        0x0 ./example/example_mqtt.o
+ .data          0x00000000        0x0 ./example/example_mqtt.o
+ .bss           0x00000000        0x0 ./example/example_mqtt.o
+ .comment       0x00000000       0x31 ./example/example_mqtt.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_mqtt.o
+ .text          0x00000000        0x0 ./example/example_multitask.o
+ .data          0x00000000        0x0 ./example/example_multitask.o
+ .bss           0x00000000        0x0 ./example/example_multitask.o
+ .comment       0x00000000       0x31 ./example/example_multitask.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask.o
+ .text          0x00000000        0x0 ./example/example_multitask_port.o
+ .data          0x00000000        0x0 ./example/example_multitask_port.o
+ .bss           0x00000000        0x0 ./example/example_multitask_port.o
+ .comment       0x00000000       0x31 ./example/example_multitask_port.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask_port.o
+ .text          0x00000000        0x0 ./example/example_pwm.o
+ .data          0x00000000        0x0 ./example/example_pwm.o
+ .bss           0x00000000        0x0 ./example/example_pwm.o
+ .comment       0x00000000       0x31 ./example/example_pwm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_pwm.o
+ .text          0x00000000        0x0 ./example/example_sms.o
+ .data          0x00000000        0x0 ./example/example_sms.o
+ .bss           0x00000000        0x0 ./example/example_sms.o
+ .comment       0x00000000       0x31 ./example/example_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_sms.o
+ .text          0x00000000        0x0 ./example/example_spi.o
+ .data          0x00000000        0x0 ./example/example_spi.o
+ .bss           0x00000000        0x0 ./example/example_spi.o
+ .comment       0x00000000       0x31 ./example/example_spi.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_spi.o
+ .text          0x00000000        0x0 ./example/example_system.o
+ .data          0x00000000        0x0 ./example/example_system.o
+ .bss           0x00000000        0x0 ./example/example_system.o
+ .comment       0x00000000       0x31 ./example/example_system.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_system.o
+ .text          0x00000000        0x0 ./example/example_tcp_demo.o
+ .data          0x00000000        0x0 ./example/example_tcp_demo.o
+ .bss           0x00000000        0x0 ./example/example_tcp_demo.o
+ .comment       0x00000000       0x31 ./example/example_tcp_demo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcp_demo.o
+ .text          0x00000000        0x0 ./example/example_tcpclient.o
+ .data          0x00000000        0x0 ./example/example_tcpclient.o
+ .bss           0x00000000        0x0 ./example/example_tcpclient.o
+ .comment       0x00000000       0x31 ./example/example_tcpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpclient.o
+ .text          0x00000000        0x0 ./example/example_tcpserver.o
+ .data          0x00000000        0x0 ./example/example_tcpserver.o
+ .bss           0x00000000        0x0 ./example/example_tcpserver.o
+ .comment       0x00000000       0x31 ./example/example_tcpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpserver.o
+ .text          0x00000000        0x0 ./example/example_time.o
+ .data          0x00000000        0x0 ./example/example_time.o
+ .bss           0x00000000        0x0 ./example/example_time.o
+ .comment       0x00000000       0x31 ./example/example_time.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_time.o
+ .text          0x00000000        0x0 ./example/example_timer.o
+ .data          0x00000000        0x0 ./example/example_timer.o
+ .bss           0x00000000        0x0 ./example/example_timer.o
+ .comment       0x00000000       0x31 ./example/example_timer.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_timer.o
+ .text          0x00000000        0x0 ./example/example_transpass.o
+ .data          0x00000000        0x0 ./example/example_transpass.o
+ .bss           0x00000000        0x0 ./example/example_transpass.o
+ .comment       0x00000000       0x31 ./example/example_transpass.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_transpass.o
+ .text          0x00000000        0x0 ./example/example_udpclient.o
+ .data          0x00000000        0x0 ./example/example_udpclient.o
+ .bss           0x00000000        0x0 ./example/example_udpclient.o
+ .comment       0x00000000       0x31 ./example/example_udpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpclient.o
+ .text          0x00000000        0x0 ./example/example_udpserver.o
+ .data          0x00000000        0x0 ./example/example_udpserver.o
+ .bss           0x00000000        0x0 ./example/example_udpserver.o
+ .comment       0x00000000       0x31 ./example/example_udpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpserver.o
+ .text          0x00000000        0x0 ./example/example_watchdog.o
+ .data          0x00000000        0x0 ./example/example_watchdog.o
+ .bss           0x00000000        0x0 ./example/example_watchdog.o
+ .comment       0x00000000       0x31 ./example/example_watchdog.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_watchdog.o
+ .text          0x00000000      0xa08 ./example/nema_pro.o
+ .data          0x00000000        0x0 ./example/nema_pro.o
+ .bss           0x00000000      0xa08 ./example/nema_pro.o
+ .rodata.str1.4
+                0x00000000      0x1ac ./example/nema_pro.o
+ .comment       0x00000000       0x31 ./example/nema_pro.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/nema_pro.o
+ COMMON         0x00000000     0x8718 ./example/nema_pro.o
+ .data          0x00000000        0x0 ./example/utility.o
+ .bss           0x00000000        0x0 ./example/utility.o
+ .text          0x00000000     0x109c ./custom/fota/src/fota_ftp.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .bss           0x00000000       0xb0 ./custom/fota/src/fota_ftp.o
+ .rodata.str1.4
+                0x00000000      0x6ec ./custom/fota/src/fota_ftp.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_ftp.o
+ .text          0x00000000     0x14bc ./custom/fota/src/fota_http.o
+ .data          0x00000000       0x34 ./custom/fota/src/fota_http.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .rodata.str1.4
+                0x00000000      0x528 ./custom/fota/src/fota_http.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http.o
+ COMMON         0x00000000      0x234 ./custom/fota/src/fota_http.o
+ .text          0x00000000      0x8f4 ./custom/fota/src/fota_http_code.o
+ .data          0x00000000        0x4 ./custom/fota/src/fota_http_code.o
+ .bss           0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .rodata.str1.4
+                0x00000000      0x104 ./custom/fota/src/fota_http_code.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http_code.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http_code.o
+ .text          0x00000000      0x3b4 ./custom/fota/src/fota_main.o
+ .data          0x00000000       0x68 ./custom/fota/src/fota_main.o
+ .bss           0x00000000       0x44 ./custom/fota/src/fota_main.o
+ .rodata.str1.4
+                0x00000000      0x1fc ./custom/fota/src/fota_main.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_main.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_main.o
+ COMMON         0x00000000       0xc0 ./custom/fota/src/fota_main.o
+ .text          0x00000000        0xc ./custom/config/custom_sys_cfg.o
+ .data          0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .bss           0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .text          0x00000000        0x0 ./custom/config/sys_config.o
+ .data          0x00000000        0x0 ./custom/config/sys_config.o
+ .bss           0x00000000        0x0 ./custom/config/sys_config.o
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .bss           0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Open
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_OpenRAMFile
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Read
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Write
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Seek
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFilePosition
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Truncate
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Flush
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Close
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetSize
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Delete
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Check
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Rename
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CreateDir
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_DeleteDir
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CheckDir
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindFirst
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindNext
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindClose
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XDelete
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XMove
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFreeSpace
+                0x00000000       0x74 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetTotalSpace
+                0x00000000       0x74 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Format
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .rodata.str1.1
+                0x00000000      0x15c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fileSys.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .bss           0x00000000       0x14 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Init
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_WriteData
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Finish
+                0x00000000       0x58 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_ReadData
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Update
+                0x00000000       0x58 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .rodata.str1.1
+                0x00000000       0x4e D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(fota.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetDirection
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetDirection
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetPullSelection
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetPullSelection
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_Uninit
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .bss           0x00000000       0x28 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetPDPCntxtState
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetPDPContextId
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Config
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Register
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Activate
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_ActivateEx
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Deactivate
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_DeactivateEx
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetLocalIPAddress
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetDNSAddress
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_SetDNSAddress
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .rodata.str1.1
+                0x00000000       0xcb D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gprs.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .bss           0x00000000       0x18 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Init
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Config
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Read
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write_Read
+                0x00000000       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Uninit
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .rodata.str1.1
+                0x00000000       0x53 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(iic.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .bss           0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.EncodeAddress
+                0x00000000      0x228 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeUserDataHeader
+                0x00000000       0xb8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.EncodeGSM7Bit.part.2
+                0x00000000       0xd4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeGSM7Bit
+                0x00000000      0x148 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeAddress
+                0x00000000      0x218 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecordUserDataBody.part.5
+                0x00000000      0x180 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeTimeStamp.constprop.8
+                0x00000000       0xfc D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_IsValidHexStr
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvHexOctToHexStr
+                0x00000000       0xa8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvHexStrToHexOct
+                0x00000000       0xe8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_DecodeDCS
+                0x00000000      0x164 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvAlphaToCharSet
+                0x00000000      0x43c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvCharSetToAlpha
+                0x00000000      0x7b4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_DecodePDUStr
+                0x00000000      0x500 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_EncodeSubmitPDU
+                0x00000000      0x730 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .rodata        0x00000000      0x3bc D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StartPlayAudioStream
+                0x00000000       0x7c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StopPlayAudioStream
+                0x00000000       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_GetRelativeTime_Counter
+                0x00000000       0x40 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_SecondToTicks
+                0x00000000       0x48 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_MillisecondToTicks
+                0x00000000       0x48 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_CalendarTime2LocalTime
+                0x00000000       0x58 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_osChangeTaskPriority
+                0x00000000       0x50 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .rodata.str1.1
+                0x00000000       0xa3 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .text.get_ril_init_status
+                0x00000000       0x10 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .bss           0x00000000       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Register
+                0x00000000       0x84 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Create
+                0x00000000       0x64 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_CreateEx
+                0x00000000       0x94 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Close
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Connect
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_ConnectEx
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Send
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Recv
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_GetAckNumber
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SendTo
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_RecvFrom
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Bind
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Listen
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Accept
+                0x00000000       0x6c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostName
+                0x00000000       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostNameEx
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_ConvertIpAddr
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SetOption
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SSL_InjectCertification
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .rodata.str1.1
+                0x00000000      0x151 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(socket.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_create_api_hash
+                0x00000000       0x28 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_ui64toa
+                0x00000000       0xac D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_itoa  0x00000000       0x9c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strcat
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memcmp
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memmove
+                0x00000000       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strchr
+                0x00000000       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_tolower
+                0x00000000        0x8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_isdigit
+                0x00000000       0x14 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetUID
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetMsSincePwrOn
+                0x00000000       0x84 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetCoreVer
+                0x00000000       0x6c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_CreateSemaphore
+                0x00000000       0x5c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_TakeSemaphore
+                0x00000000       0x5c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GiveSemaphore
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetActiveTaskId
+                0x00000000       0x58 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_SetLastErrorCode
+                0x00000000       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_GetLastErrorCode
+                0x00000000       0x58 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrentTaskPriority
+                0x00000000       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrenTaskLeftStackSize
+                0x00000000       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .text.Ql_Timer_RegisterFast
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_OpenEx
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Enable
+                0x00000000       0x5c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Disable
+                0x00000000       0x5c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetDCBConfig
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetDCBConfig
+                0x00000000       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrRxBuffer
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_ClrTxBuffer
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetOption
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetOption
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetPinStatus
+                0x00000000       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_Close
+                0x00000000       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .text          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_GetInitState
+                0x00000000       0x10 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_ChangeGPIOLevel
+                0x00000000       0x38 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.Ql_WTD_Calback
+                0x00000000       0xc4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithGPTimer
+                0x00000000       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithGPTimer
+                0x00000000       0x18 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithStackTimer
+                0x00000000       0x48 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithStackTimer
+                0x00000000       0x38 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.Ql_WTD_Init
+                0x00000000      0x100 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .text.Ql_WTD_Stop
+                0x00000000       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .rodata.str1.1
+                0x00000000       0x25 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .data          0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ocpu_init.o)
+ .bss           0x00000000        0x0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ocpu_init.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x150 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .data          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .bss           0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .eh_frame      0x00000000        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .jcr           0x00000000        0x4 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .tm_clone_table
+                0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .ARM.attributes
+                0x00000000       0x30 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+ .text          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+ .data          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+ .bss           0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+ .init          0x00000000        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+ .fini          0x00000000        0xc c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+ .ARM.attributes
+                0x00000000       0x18 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x102db040         0x00050000         xr
+RAM              0xf03d2000         0x00019000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crti.o
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+LOAD ./ril/src/Ril_dtmf.o
+LOAD ./ril/src/ril_alarm.o
+LOAD ./ril/src/ril_atResponse.o
+LOAD ./ril/src/ril_audio.o
+LOAD ./ril/src/ril_bluetooth.o
+LOAD ./ril/src/ril_custom.o
+LOAD ./ril/src/ril_ftp.o
+LOAD ./ril/src/ril_gps.o
+LOAD ./ril/src/ril_http.o
+LOAD ./ril/src/ril_init.o
+LOAD ./ril/src/ril_location.o
+LOAD ./ril/src/ril_network.o
+LOAD ./ril/src/ril_ntp.o
+LOAD ./ril/src/ril_sim.o
+LOAD ./ril/src/ril_sms.o
+LOAD ./ril/src/ril_system.o
+LOAD ./ril/src/ril_telephony.o
+LOAD ./ril/src/ril_urc.o
+LOAD ./ril/src/ril_util.o
+LOAD ./example/Example_gps_iic.o
+LOAD ./example/example_adc.o
+LOAD ./example/example_alarm.o
+LOAD ./example/example_audio.o
+LOAD ./example/example_bluetooth.o
+LOAD ./example/example_call.o
+LOAD ./example/example_clk.o
+LOAD ./example/example_csd.o
+LOAD ./example/example_download_epo.o
+LOAD ./example/example_dtmf.o
+LOAD ./example/example_eint.o
+LOAD ./example/example_file.o
+LOAD ./example/example_float_math.o
+LOAD ./example/example_fota_ftp.o
+LOAD ./example/example_fota_http.o
+LOAD ./example/example_ftp.o
+LOAD ./example/example_gpio.o
+LOAD ./example/example_gps.o
+LOAD ./example/example_http.o
+LOAD ./example/example_https.o
+LOAD ./example/example_iic.o
+LOAD ./example/example_location.o
+LOAD ./example/example_memory.o
+LOAD ./example/example_mqtt.o
+LOAD ./example/example_multitask.o
+LOAD ./example/example_multitask_port.o
+LOAD ./example/example_pwm.o
+LOAD ./example/example_sms.o
+LOAD ./example/example_spi.o
+LOAD ./example/example_system.o
+LOAD ./example/example_tcp_demo.o
+LOAD ./example/example_tcpclient.o
+LOAD ./example/example_tcpserver.o
+LOAD ./example/example_time.o
+LOAD ./example/example_timer.o
+LOAD ./example/example_transpass.o
+LOAD ./example/example_udpclient.o
+LOAD ./example/example_udpserver.o
+LOAD ./example/example_watchdog.o
+LOAD ./example/nema_pro.o
+LOAD ./example/utility.o
+LOAD ./custom/fota/src/fota_ftp.o
+LOAD ./custom/fota/src/fota_http.o
+LOAD ./custom/fota/src/fota_http_code.o
+LOAD ./custom/fota/src/fota_main.o
+LOAD ./custom/config/custom_sys_cfg.o
+LOAD ./custom/config/sys_config.o
+LOAD ./custom/main.o
+LOAD D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libm.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libcs3.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtend.o
+LOAD c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtn.o
+                0x102db040                . = 0x102db040
+
+.initdata       0x102db040       0x2c
+ *(.initdata)
+ .initdata      0x102db040       0x2c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                0x102db040                GADLENTRY
+
+text            0x102db070     0xa580
+ *(.text)
+ .text          0x102db070      0x5b8 ./ril/src/Ril_dtmf.o
+                0x102db16c                RIL_ToneDet_Open
+                0x102db1f0                RIL_ToneDet_Close
+                0x102db268                RIL_ToneDet_Set
+                0x102db314                RIL_ToneDet_Get
+                0x102db3d4                OnURCHandler_QToneDet
+                0x102db4c8                RIL_WDTMF_Send
+                0x102db584                OnURCHandler_QWDTMF
+ .text          0x102db628       0xfc ./ril/src/ril_atResponse.o
+                0x102db628                Ql_RIL_AT_GetErrCode
+                0x102db638                Ql_RIL_AT_SetErrCode
+                0x102db64c                Default_atRsp_callback
+ .text          0x102db724     0x3054 ./ril/src/ril_bluetooth.o
+                0x102dc284                BT_DevMngmt_GetDeviceId
+                0x102dc2cc                BT_DevMngmt_GetPairedId
+                0x102dc314                BT_DevMngmt_GetConnId
+                0x102dc35c                BT_DevMngmt_GetProfileId
+                0x102dc3a4                BT_DevMngmt_GetDevName
+                0x102dc3ec                BT_DevMngmt_GetDevAddr
+                0x102dc434                RIL_BT_Switch
+                0x102dc4bc                RIL_BT_GetPwrState
+                0x102dc52c                RIL_BT_SetName
+                0x102dc5c8                RIL_BT_GetName
+                0x102dc704                RIL_BT_GetLocalAddr
+                0x102dc7fc                RIL_BT_SetVisble
+                0x102dc8b0                OnURCHandler_BTVisible
+                0x102dc9a4                RIL_BT_GetVisble
+                0x102dca18                OnURCHandler_BTScan
+                0x102dccdc                RIL_BT_GetDevListInfo
+                0x102dcd54                RIL_BT_GetDevListPointer
+                0x102dcd60                RIL_BT_StopScan
+                0x102dcdb8                RIL_BT_QueryState
+                0x102dce1c                RIL_BT_StartScan
+                0x102dcedc                RIL_BT_Initialize
+                0x102dcf10                RIL_BT_PairReq
+                0x102dcfb8                OnURCHandler_BTPair
+                0x102dd1c4                RIL_BT_PairConfirm
+                0x102dd278                OnURCHandler_BTPairCnf
+                0x102dd4b4                RIL_BT_Unpair
+                0x102dd618                RIL_BT_GetSupportedProfile
+                0x102dd754                RIL_BT_ConnReq
+                0x102dd81c                OnURCHandler_BTConn
+                0x102ddab0                RIL_BT_SPP_DirectConn
+                0x102ddb38                RIL_BT_ConnAccept
+                0x102ddbc0                OnURCHandler_BTConnCnf
+                0x102ddf14                RIL_BT_Disconnect
+                0x102ddfc4                OnURCHandler_BTDisconn
+                0x102de1ec                RIL_BT_SPP_Send
+                0x102de2c4                RIL_BT_SPP_Read
+                0x102de3a0                OnURCHandler_BTIndication
+ .text          0x102de778       0x20 ./ril/src/ril_custom.o
+                0x102de778                Ql_RIL_RcvDataFrmCore
+ .text          0x102de798      0xabc ./ril/src/ril_gps.o
+                0x102dec54                RIL_GPS_Open
+                0x102decf8                RIL_GPS_Read
+                0x102dee30                RIL_GPS_Read_TimeSync_Status
+                0x102deed8                OnURCHandler_GPSCMD
+                0x102def44                RIL_GPS_CMD_Send
+                0x102deff8                RIL_GPS_EPO_Enable
+                0x102df0ac                RIL_GPS_EPO_Aid
+                0x102df14c                RIL_GPS_EPO_Config_APN
+ .text          0x102df254       0x10 ./ril/src/ril_init.o
+                0x102df254                RIL_GetInitCmdCnt
+                0x102df25c                RIL_GetLimitedCmdCnt
+ .text          0x102df264      0x29c ./ril/src/ril_location.o
+                0x102df264                RIL_GetLocation
+                0x102df338                RIL_GetLocationByCell
+                0x102df428                OnURCHandler_QCELLLocation
+ .text          0x102df500      0xb70 ./ril/src/ril_network.o
+                0x102df8e0                RIL_NW_GetGSMState
+                0x102df954                RIL_NW_GetGPRSState
+                0x102df9d0                RIL_NW_GetSignalQuality
+                0x102dfa60                RIL_NW_SetGPRSContext
+                0x102dfadc                RIL_NW_SetAPN
+                0x102dfbec                RIL_NW_GetIpStatusByName
+                0x102dfe9c                RIL_NW_GetIPStatus
+                0x102dfee4                RIL_NW_OpenPDPContext
+                0x102dff94                RIL_NW_ClosePDPContext
+                0x102dfffc                RIL_NW_GetOperator
+ .text          0x102e0070      0x10c ./ril/src/ril_ntp.o
+                0x102e0070                OnURCHandler_NTPCMD
+                0x102e00dc                RIL_NTP_START
+ .text          0x102e017c      0x5a4 ./ril/src/ril_sim.o
+                0x102e02dc                RIL_SIM_GetSimStateByName
+                0x102e05c4                RIL_SIM_GetSimState
+                0x102e0638                RIL_SIM_GetIMSI
+                0x102e06ac                RIL_SIM_GetCCID
+ .text          0x102e0720      0x90c ./ril/src/ril_system.o
+                0x102e0ba0                RIL_QuerySysInitStatus
+                0x102e0bdc                RIL_GetPowerSupply
+                0x102e0c34                Ql_SecureData_Store
+                0x102e0d98                Ql_SecureData_Read
+                0x102e0fbc                RIL_GetIMEI
+ .text          0x102e102c      0xc98 ./ril/src/ril_urc.o
+                0x102e1b74                OnURCHandler
+                0x102e1c44                Ql_RIL_IsURCStr
+ .text          0x102e1cc4      0x4a0 ./ril/src/ril_util.o
+                0x102e1cc4                Ql_StrPrefixMatch
+                0x102e1d14                Ql_StrToUpper
+                0x102e1d70                Ql_HexStrToInt
+                0x102e1e04                Ql_RIL_FindString
+                0x102e1e90                Ql_RIL_FindLine
+                0x102e2110                Ql_GenHash
+ .text          0x102e2164      0x188 ./example/utility.o
+                0x102e2164                Analyse_Command
+ .text          0x102e22ec     0x2ee0 ./custom/main.o
+                0x102e2efc                QSDK_Get_Str
+                0x102e3120                proc_main_task
+                0x102e3b24                RIL_MQTT_QMTCFG_Ali
+                0x102e3c00                RIL_MQTT_QMTOPEN
+                0x102e3db8                RIL_MQTT_QMTCONN
+                0x102e3fa4                RIL_MQTT_QMTSUB
+                0x102e4178                RIL_MQTT_QMTPUB
+                0x102e4310                RIL_MQTT_QMTCLOSE
+                0x102e5000                RIL_MQTT_QMTUNS
+ .text          0x102e51cc       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ocpu_init.o)
+                0x102e51cc                _OCPU_InitUserMem
+ .text          0x102e5218      0x10c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                0x102e5218                memcpy
+ .text          0x102e5324       0x9c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                0x102e5324                memset
+ .text          0x102e53c0      0x11c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                0x102e53c0                __aeabi_uidiv
+                0x102e53c0                __udivsi3
+                0x102e54bc                __aeabi_uidivmod
+ .text          0x102e54dc        0x4 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                0x102e54dc                __aeabi_idiv0
+                0x102e54dc                __aeabi_ldiv0
+ .text          0x102e54e0       0x5c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                0x102e54e0                __aeabi_d2iz
+                0x102e54e0                __fixdfsi
+ .text          0x102e553c       0xa0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                0x102e553c                __truncdfsf2
+                0x102e553c                __aeabi_d2f
+ *fill*         0x102e55dc        0x4 
+ .text.__stub   0x102e55e0        0xc linker stubs
+
+.glue_7         0x102e55f0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x102e55f0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x102e55f0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x102e55f0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x102e55f0        0x0
+ .iplt          0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+
+.text.Ql_GPIO_Init
+                0x102e55f0       0x78
+ .text.Ql_GPIO_Init
+                0x102e55f0       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+                0x102e55f0                Ql_GPIO_Init
+
+.text.Ql_GPIO_SetLevel
+                0x102e5668       0x68
+ .text.Ql_GPIO_SetLevel
+                0x102e5668       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+                0x102e5668                Ql_GPIO_SetLevel
+
+.text.Ql_GPIO_GetLevel
+                0x102e56d0       0x60
+ .text.Ql_GPIO_GetLevel
+                0x102e56d0       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+                0x102e56d0                Ql_GPIO_GetLevel
+
+.text.Ql_MEM_Alloc
+                0x102e5730       0x78
+ .text.Ql_MEM_Alloc
+                0x102e5730       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+                0x102e5730                Ql_MEM_Alloc
+
+.text.Ql_MEM_Free
+                0x102e57a8       0x74
+ .text.Ql_MEM_Free
+                0x102e57a8       0x74 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+                0x102e57a8                Ql_MEM_Free
+
+.text.ql_InitVFunc
+                0x102e581c      0x104
+ .text.ql_InitVFunc
+                0x102e581c      0x104 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e581c                ql_InitVFunc
+
+.text.ocpu_main
+                0x102e5920       0xf0
+ .text.ocpu_main
+                0x102e5920       0xf0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e5920                ocpu_main
+
+.text.proc_reserved2
+                0x102e5a10       0x70
+ .text.proc_reserved2
+                0x102e5a10       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+                0x102e5a10                proc_reserved2
+
+.text.ril_StopATTimer
+                0x102e5a80       0x34
+ .text.ril_StopATTimer
+                0x102e5a80       0x34 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.Callback_OnATTimer
+                0x102e5ab4       0x4c
+ .text.Callback_OnATTimer
+                0x102e5ab4       0x4c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.CallBack_SerialPort_Hdlr
+                0x102e5b00      0x384
+ .text.CallBack_SerialPort_Hdlr
+                0x102e5b00      0x384 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.proc_reserved1
+                0x102e5e84      0x200
+ .text.proc_reserved1
+                0x102e5e84      0x200 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e5e84                proc_reserved1
+
+.text.Ql_RIL_Initialize
+                0x102e6084       0xd4
+ .text.Ql_RIL_Initialize
+                0x102e6084       0xd4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e6084                Ql_RIL_Initialize
+
+.text.Ql_RIL_SendATCmd
+                0x102e6158      0x260
+ .text.Ql_RIL_SendATCmd
+                0x102e6158      0x260 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e6158                Ql_RIL_SendATCmd
+
+.text.Ql_RIL_WriteDataToCore
+                0x102e63b8       0x24
+ .text.Ql_RIL_WriteDataToCore
+                0x102e63b8       0x24 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e63b8                Ql_RIL_WriteDataToCore
+
+.text.Ql_atof   0x102e63dc       0x98
+ .text.Ql_atof  0x102e63dc       0x98 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e63dc                Ql_atof
+
+.text.Ql_strcpy
+                0x102e6474       0xa0
+ .text.Ql_strcpy
+                0x102e6474       0xa0 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6474                Ql_strcpy
+
+.text.Ql_strncpy
+                0x102e6514       0x88
+ .text.Ql_strncpy
+                0x102e6514       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6514                Ql_strncpy
+
+.text.Ql_strncat
+                0x102e659c       0x88
+ .text.Ql_strncat
+                0x102e659c       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e659c                Ql_strncat
+
+.text.Ql_strlen
+                0x102e6624       0x78
+ .text.Ql_strlen
+                0x102e6624       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6624                Ql_strlen
+
+.text.Ql_strcmp
+                0x102e669c       0x68
+ .text.Ql_strcmp
+                0x102e669c       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e669c                Ql_strcmp
+
+.text.Ql_strncmp
+                0x102e6704       0x70
+ .text.Ql_strncmp
+                0x102e6704       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6704                Ql_strncmp
+
+.text.Ql_memset
+                0x102e6774       0x88
+ .text.Ql_memset
+                0x102e6774       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6774                Ql_memset
+
+.text.Ql_memcpy
+                0x102e67fc       0x88
+ .text.Ql_memcpy
+                0x102e67fc       0x88 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e67fc                Ql_memcpy
+
+.text.Ql_strstr
+                0x102e6884       0x80
+ .text.Ql_strstr
+                0x102e6884       0x80 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6884                Ql_strstr
+
+.text.Ql_toupper
+                0x102e6904        0x8
+ .text.Ql_toupper
+                0x102e6904        0x8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e6904                Ql_toupper
+
+.text.Ql_atoi   0x102e690c       0x84
+ .text.Ql_atoi  0x102e690c       0x84 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e690c                Ql_atoi
+
+.text.Ql_Sleep  0x102e6990       0x74
+ .text.Ql_Sleep
+                0x102e6990       0x74 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+                0x102e6990                Ql_Sleep
+
+.text.Ql_Reset  0x102e6a04       0x74
+ .text.Ql_Reset
+                0x102e6a04       0x74 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+                0x102e6a04                Ql_Reset
+
+.text.Ql_GetSDKVer
+                0x102e6a78       0x64
+ .text.Ql_GetSDKVer
+                0x102e6a78       0x64 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+                0x102e6a78                Ql_GetSDKVer
+
+.text.Ql_OS_GetMessage
+                0x102e6adc       0x60
+ .text.Ql_OS_GetMessage
+                0x102e6adc       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6adc                Ql_OS_GetMessage
+
+.text.Ql_OS_SendMessage
+                0x102e6b3c       0x78
+ .text.Ql_OS_SendMessage
+                0x102e6b3c       0x78 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6b3c                Ql_OS_SendMessage
+
+.text.Ql_OS_CreateMutex
+                0x102e6bb4       0x54
+ .text.Ql_OS_CreateMutex
+                0x102e6bb4       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6bb4                Ql_OS_CreateMutex
+
+.text.Ql_OS_TakeMutex
+                0x102e6c08       0x54
+ .text.Ql_OS_TakeMutex
+                0x102e6c08       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6c08                Ql_OS_TakeMutex
+
+.text.Ql_OS_GiveMutex
+                0x102e6c5c       0x54
+ .text.Ql_OS_GiveMutex
+                0x102e6c5c       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6c5c                Ql_OS_GiveMutex
+
+.text.Ql_OS_CreateEvent
+                0x102e6cb0       0x54
+ .text.Ql_OS_CreateEvent
+                0x102e6cb0       0x54 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6cb0                Ql_OS_CreateEvent
+
+.text.Ql_OS_WaitEvent
+                0x102e6d04       0x68
+ .text.Ql_OS_WaitEvent
+                0x102e6d04       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6d04                Ql_OS_WaitEvent
+
+.text.Ql_OS_SetEvent
+                0x102e6d6c       0x68
+ .text.Ql_OS_SetEvent
+                0x102e6d6c       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e6d6c                Ql_OS_SetEvent
+
+.text.Ql_Timer_Register
+                0x102e6dd4       0x70
+ .text.Ql_Timer_Register
+                0x102e6dd4       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+                0x102e6dd4                Ql_Timer_Register
+
+.text.Ql_Timer_Start
+                0x102e6e44       0x70
+ .text.Ql_Timer_Start
+                0x102e6e44       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+                0x102e6e44                Ql_Timer_Start
+
+.text.Ql_Timer_Stop
+                0x102e6eb4       0x60
+ .text.Ql_Timer_Stop
+                0x102e6eb4       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+                0x102e6eb4                Ql_Timer_Stop
+
+.text.Ql_UART_Register
+                0x102e6f14       0x70
+ .text.Ql_UART_Register
+                0x102e6f14       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e6f14                Ql_UART_Register
+
+.text.Ql_UART_Open
+                0x102e6f84       0x70
+ .text.Ql_UART_Open
+                0x102e6f84       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e6f84                Ql_UART_Open
+
+.text.Ql_UART_Write
+                0x102e6ff4       0x70
+ .text.Ql_UART_Write
+                0x102e6ff4       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e6ff4                Ql_UART_Write
+
+.text.Ql_UART_Read
+                0x102e7064       0x70
+ .text.Ql_UART_Read
+                0x102e7064       0x70 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e7064                Ql_UART_Read
+
+.text.Ql_UART_GetPinStatus
+                0x102e70d4       0x68
+ .text.Ql_UART_GetPinStatus
+                0x102e70d4       0x68 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e70d4                Ql_UART_GetPinStatus
+
+.text.Ql_UART_SendEscap
+                0x102e713c       0x60
+ .text.Ql_UART_SendEscap
+                0x102e713c       0x60 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+                0x102e713c                Ql_UART_SendEscap
+
+.text.Ql_WTD_Start
+                0x102e719c       0xb4
+ .text.Ql_WTD_Start
+                0x102e719c       0xb4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e719c                Ql_WTD_Start
+
+.text.Ql_WTD_Feed
+                0x102e7250       0x5c
+ .text.Ql_WTD_Feed
+                0x102e7250       0x5c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e7250                Ql_WTD_Feed
+
+.rodata         0x102e72ac      0xc64
+ *(.rodata)
+ .rodata        0x102e72ac       0x1c ./ril/src/Ril_dtmf.o
+ .rodata        0x102e72c8      0x11c ./ril/src/ril_bluetooth.o
+ .rodata        0x102e73e4       0x44 ./ril/src/ril_gps.o
+ .rodata        0x102e7428       0x10 ./ril/src/ril_location.o
+ .rodata        0x102e7438       0x68 ./ril/src/ril_network.o
+ .rodata        0x102e74a0        0xc ./ril/src/ril_ntp.o
+ .rodata        0x102e74ac       0x48 ./ril/src/ril_sim.o
+ .rodata        0x102e74f4        0x8 ./ril/src/ril_system.o
+ .rodata        0x102e74fc      0x930 ./ril/src/ril_urc.o
+ .rodata        0x102e7e2c       0x4c ./custom/config/custom_sys_cfg.o
+                0x102e7e30                SystemCfg
+ .rodata        0x102e7e78       0x54 ./custom/config/sys_config.o
+                0x102e7e78                GpioConfigTbl
+                0x102e7e7c                TaskConfig
+ .rodata        0x102e7ecc       0x14 ./custom/main.o
+ .rodata        0x102e7ee0       0x16 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata        0x102e7ef6        0x4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .rodata        0x102e7efa       0x16 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+
+.rodata.str1.4  0x102e7f10     0x1628
+ .rodata.str1.4
+                0x102e7f10       0xd7 ./ril/src/Ril_dtmf.o
+                                 0xdc (size before relaxing)
+ *fill*         0x102e7fe7        0x1 
+ .rodata.str1.4
+                0x102e7fe8       0x19 ./ril/src/ril_atResponse.o
+                                 0x34 (size before relaxing)
+ *fill*         0x102e8001        0x3 
+ .rodata.str1.4
+                0x102e8004      0x518 ./ril/src/ril_bluetooth.o
+                                0x544 (size before relaxing)
+ .rodata.str1.4
+                0x102e851c      0x10f ./ril/src/ril_gps.o
+                                0x130 (size before relaxing)
+ *fill*         0x102e862b        0x1 
+ .rodata.str1.4
+                0x102e862c       0x57 ./ril/src/ril_init.o
+                                 0x58 (size before relaxing)
+ *fill*         0x102e8683        0x1 
+ .rodata.str1.4
+                0x102e8684       0x49 ./ril/src/ril_location.o
+                                 0x6c (size before relaxing)
+ *fill*         0x102e86cd        0x3 
+ .rodata.str1.4
+                0x102e86d0      0x11c ./ril/src/ril_network.o
+                                0x13c (size before relaxing)
+ .rodata.str1.4
+                0x102e87ec       0x12 ./ril/src/ril_ntp.o
+                                 0x14 (size before relaxing)
+ *fill*         0x102e87fe        0x2 
+ .rodata.str1.4
+                0x102e8800       0xa4 ./ril/src/ril_sim.o
+                                 0xc8 (size before relaxing)
+ .rodata.str1.4
+                0x102e88a4       0x65 ./ril/src/ril_system.o
+                                 0x90 (size before relaxing)
+ *fill*         0x102e8909        0x3 
+ .rodata.str1.4
+                0x102e890c      0x1a8 ./ril/src/ril_urc.o
+                                0x1b4 (size before relaxing)
+ .rodata.str1.4
+                0x102e8ab4       0x15 ./ril/src/ril_util.o
+                                 0x20 (size before relaxing)
+ *fill*         0x102e8ac9        0x3 
+ .rodata.str1.4
+                0x102e8acc        0xc ./example/utility.o
+                                 0x10 (size before relaxing)
+ .rodata.str1.4
+                0x102e8ad8      0xa60 ./custom/main.o
+                                0xaa4 (size before relaxing)
+
+.rodata.str1.1  0x102e9538      0x492
+ .rodata.str1.1
+                0x102e9538       0x9a D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .rodata.str1.1
+                0x102e95d2       0x19 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .rodata.str1.1
+                0x102e95eb       0x56 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata.str1.1
+                0x102e9641       0x1e D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                                 0x25 (size before relaxing)
+ .rodata.str1.1
+                0x102e965f       0xa1 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .rodata.str1.1
+                0x102e9700       0x3d D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .rodata.str1.1
+                0x102e973d      0x140 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .rodata.str1.1
+                0x102e987d       0x45 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .rodata.str1.1
+                0x102e98c2      0x108 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+
+.rel.dyn        0x102e99cc        0x0
+ .rel.iplt      0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+
+.data           0xf03d2000     0x1940 load address 0x102e99d0
+                0x102e99d0                PROVIDE (__data_load, LOADADDR (.data))
+                0xf03d2000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0xf03d2000        0x1 ./ril/src/ril_bluetooth.o
+ *fill*         0xf03d2001        0x3 
+ .data          0xf03d2004       0x20 ./ril/src/ril_init.o
+                0xf03d2004                g_LimitedCmds
+                0xf03d200c                g_InitCmds
+ .data          0xf03d2024     0x18ec ./custom/main.o
+                0xf03d2088                eepromInit
+                0xf03d208a                pin1
+                0xf03d208b                pin2
+                0xf03d208c                pin3
+                0xf03d208d                pin5
+                0xf03d38c8                devId
+                0xf03d38dc                test_message
+                0xf03d390e                pin4
+ .data          0xf03d3910       0x18 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d3910                api_notsup
+ .data          0xf03d3928        0x4 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d3928                g_ril_auxTaskId
+ .data          0xf03d392c       0x10 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+                0xf03d3940                . = ALIGN (0x8)
+ *fill*         0xf03d393c        0x4 
+                0xf03d3940                PROVIDE (_edata, .)
+
+.igot.plt       0xf03d3940        0x0 load address 0x102eb310
+ .igot.plt      0x00000000        0x0 c:/program files (x86)/codesourcery/sourcery_codebench_lite_for_arm_eabi/bin/../lib/gcc/arm-none-eabi/4.7.2/crtbegin.o
+
+.bss            0xf03d3940     0x2df0 load address 0x102eb310
+                0xf03d3940                PROVIDE (__bss_start__, .)
+ *(.bss)
+ .bss           0xf03d3940       0x10 ./ril/src/Ril_dtmf.o
+ .bss           0xf03d3950        0x4 ./ril/src/ril_atResponse.o
+ .bss           0xf03d3954        0x4 ./ril/src/ril_audio.o
+                0xf03d3954                cb_aud_play
+ .bss           0xf03d3958       0x98 ./ril/src/ril_bluetooth.o
+ .bss           0xf03d39f0        0x4 ./ril/src/ril_custom.o
+                0xf03d39f0                cb_rcvCoreData
+ .bss           0xf03d39f4        0x4 ./ril/src/ril_gps.o
+ .bss           0xf03d39f8       0x78 ./ril/src/ril_http.o
+                0xf03d3a60                http_url_addr
+                0xf03d3a64                http_url_addr_len
+                0xf03d3a66                http_post_msg_len
+                0xf03d3a68                http_post_msg
+                0xf03d3a6c                callback_http_dwnld
+ .bss           0xf03d3a70        0x4 ./ril/src/ril_location.o
+ .bss           0xf03d3a74        0x4 ./ril/src/ril_ntp.o
+ .bss           0xf03d3a78        0x1 ./ril/src/ril_system.o
+                0xf03d3a78                IsDataReadSuccess
+ *fill*         0xf03d3a79        0x3 
+ .bss           0xf03d3a7c        0x8 ./ril/src/ril_urc.o
+                0xf03d3a7c                FtpGet_IND_CB
+                0xf03d3a80                FtpPut_IND_CB
+ .bss           0xf03d3a84     0x1dd4 ./custom/main.o
+ .bss           0xf03d5858       0x20 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+                0xf03d5858                m_GPIO_Init
+                0xf03d585c                m_GPIO_SetLevel
+                0xf03d5860                m_GPIO_GetLevel
+                0xf03d5864                m_GPIO_SetDirection
+                0xf03d5868                m_GPIO_GetDirection
+                0xf03d586c                m_GPIO_SetPullSelection
+                0xf03d5870                m_GPIO_GetPullSelection
+                0xf03d5874                m_GPIO_Uninit
+ .bss           0xf03d5878        0x8 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .bss           0xf03d5880       0x24 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d5880                m_StartPlayAudioStream
+                0xf03d5884                m_get_api_ptr
+                0xf03d5888                m_StopPlayAudioStream
+                0xf03d588c                m_GetRelativeTime_Counter
+                0xf03d5890                m_SecondToTicks
+                0xf03d5894                m_MillisecondToTicks
+                0xf03d5898                m_CalendarTime2LocalTime
+                0xf03d589c                m_osChangeTaskPriority
+                0xf03d58a0                m_create_api_hash
+ .bss           0xf03d58a4       0x10 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d58a8                runinfo
+ .bss           0xf03d58b4        0x1 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d58b4                g_ril_auxTaskReady
+ *fill*         0xf03d58b5        0x3 
+ .bss           0xf03d58b8      0xc34 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .bss           0xf03d64ec       0x40 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .bss           0xf03d652c       0x14 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .bss           0xf03d6540       0x40 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .bss           0xf03d6580       0x10 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .bss           0xf03d6590       0x3c D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .bss           0xf03d65cc       0x18 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+                0xf03d65e8                . = ALIGN (0x8)
+ *fill*         0xf03d65e4        0x4 
+                0xf03d65e8                PROVIDE (__bss_end__, .)
+ COMMON         0xf03d65e8        0x4 ./ril/src/ril_system.o
+                0xf03d65e8                SecureDataStringLen
+ COMMON         0xf03d65ec      0x124 ./ril/src/ril_telephony.o
+                0xf03d65ec                g_comingCall
+ COMMON         0xf03d6710        0xc ./custom/main.o
+                0xf03d6710                wtdID
+                0xf03d6714                rssi
+                0xf03d6718                ber
+ COMMON         0xf03d671c       0x14 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d671c                Ql_snprintf
+                0xf03d6720                Ql_sprintf
+                0xf03d6724                Ql_Debug_Trace
+                0xf03d6728                Ql_vsprintf
+                0xf03d672c                Ql_sscanf
+OUTPUT(APPGS3MDM32A01.elf elf32-littlearm)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 ./ril/src/Ril_dtmf.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 ./ril/src/ril_atResponse.o
+ .comment       0x00000000       0x31 ./ril/src/ril_audio.o
+ .comment       0x00000000       0x31 ./ril/src/ril_bluetooth.o
+ .comment       0x00000000       0x31 ./ril/src/ril_custom.o
+ .comment       0x00000000       0x31 ./ril/src/ril_gps.o
+ .comment       0x00000000       0x31 ./ril/src/ril_http.o
+ .comment       0x00000000       0x31 ./ril/src/ril_init.o
+ .comment       0x00000000       0x31 ./ril/src/ril_location.o
+ .comment       0x00000000       0x31 ./ril/src/ril_network.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ntp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sim.o
+ .comment       0x00000000       0x31 ./ril/src/ril_system.o
+ .comment       0x00000000       0x31 ./ril/src/ril_telephony.o
+ .comment       0x00000000       0x31 ./ril/src/ril_urc.o
+ .comment       0x00000000       0x31 ./ril/src/ril_util.o
+ .comment       0x00000000       0x31 ./example/utility.o
+ .comment       0x00000000       0x31 ./custom/config/custom_sys_cfg.o
+ .comment       0x00000000       0x31 ./custom/config/sys_config.o
+ .comment       0x00000000       0x31 ./custom/main.o
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .comment       0x00000000       0x31 D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+
+.ARM.attributes
+                0x00000000       0x29
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/Ril_dtmf.o
+ .ARM.attributes
+                0x0000002b       0x2b ./ril/src/ril_atResponse.o
+ .ARM.attributes
+                0x00000056       0x2b ./ril/src/ril_audio.o
+ .ARM.attributes
+                0x00000081       0x2b ./ril/src/ril_bluetooth.o
+ .ARM.attributes
+                0x000000ac       0x2b ./ril/src/ril_custom.o
+ .ARM.attributes
+                0x000000d7       0x2b ./ril/src/ril_gps.o
+ .ARM.attributes
+                0x00000102       0x2b ./ril/src/ril_http.o
+ .ARM.attributes
+                0x0000012d       0x2b ./ril/src/ril_init.o
+ .ARM.attributes
+                0x00000158       0x2b ./ril/src/ril_location.o
+ .ARM.attributes
+                0x00000183       0x2b ./ril/src/ril_network.o
+ .ARM.attributes
+                0x000001ae       0x2b ./ril/src/ril_ntp.o
+ .ARM.attributes
+                0x000001d9       0x2b ./ril/src/ril_sim.o
+ .ARM.attributes
+                0x00000204       0x2b ./ril/src/ril_system.o
+ .ARM.attributes
+                0x0000022f       0x2b ./ril/src/ril_telephony.o
+ .ARM.attributes
+                0x0000025a       0x2b ./ril/src/ril_urc.o
+ .ARM.attributes
+                0x00000285       0x2b ./ril/src/ril_util.o
+ .ARM.attributes
+                0x000002b0       0x2b ./example/utility.o
+ .ARM.attributes
+                0x000002db       0x2b ./custom/config/custom_sys_cfg.o
+ .ARM.attributes
+                0x00000306       0x2b ./custom/config/sys_config.o
+ .ARM.attributes
+                0x00000331       0x2b ./custom/main.o
+ .ARM.attributes
+                0x0000035c       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(gpio.o)
+ .ARM.attributes
+                0x00000387       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(memory.o)
+ .ARM.attributes
+                0x000003b2       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_func.o)
+ .ARM.attributes
+                0x000003dd       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ql_main.o)
+ .ARM.attributes
+                0x00000408       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_aux.o)
+ .ARM.attributes
+                0x00000433       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ril_main.o)
+ .ARM.attributes
+                0x0000045e       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(stdlib_func.o)
+ .ARM.attributes
+                0x00000489       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(system.o)
+ .ARM.attributes
+                0x000004b4       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(taskMngt.o)
+ .ARM.attributes
+                0x000004df       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(timer.o)
+ .ARM.attributes
+                0x0000050a       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(uart.o)
+ .ARM.attributes
+                0x00000535       0x2b D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(watchdog.o)
+ .ARM.attributes
+                0x00000560       0x1d D:\FaclonLabs\mc60Base\MC60_MQTT_DataPost\libs\gcc\libapp_start.a(ocpu_init.o)
+ .ARM.attributes
+                0x0000057d       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000005ad       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000005dd       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000005f5       0x16 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000060b       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000623       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+
+.debug_frame    0x00000000       0x84
+ .debug_frame   0x00000000       0x38 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000038       0x2c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000064       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)

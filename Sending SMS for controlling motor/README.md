@@ -1,0 +1,3 @@
+<a name="Project Summary"></a>
+## Project Summary
+<span style="color:orange"> In this project I have prepared a module for controlling motor by sending sms from any device to a particular identity number and then by sending "ON" or "on" the motor will start and by sending "OFF" or "off" we can stop the motor. Also the status of the motor can be controlled through server by using mqtt protocol. This project uses mc60 and 328p microcontrollers and a motor. </span>

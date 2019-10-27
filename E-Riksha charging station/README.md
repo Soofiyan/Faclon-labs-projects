@@ -1,3 +1,3 @@
-<a name="Project Description"></a>
-## Project Description
-<span style="color:orange"> In this project I have prepared a module for Riksha charging where, when the charger gets connected to the battery of the user, according to the balance and the account info and also the battery percentage will be charged. In this project I have used a nextion touch screen display, keypad to enter user info, mc60 and 328p microcontroller, CAN bus module.   </span>
+<a name="Project Summary"></a>
+## Project Summary
+<span style="color:orange"> In this project I have prepared a module for Riksha charging where, when the charger gets connected to the battery of the user, according to the balance and the account info and also the battery percentage the battery will be charged. In this project I have used a nextion touch screen display, keypad to enter user info, mc60 and 328p microcontroller, CAN bus module. Along with this the data is also posted on the server using mqtt protocol and the data of the user information is then send to the controller using mqtt protocol. </span>

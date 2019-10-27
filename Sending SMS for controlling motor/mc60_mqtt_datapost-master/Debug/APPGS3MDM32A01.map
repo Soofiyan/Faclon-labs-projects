@@ -1,0 +1,2983 @@
+Archive member included because of file (symbol)
+
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                              ./example/example_mqtt.o (Ql_FS_Open)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+                              ./custom/fota/src/fota_main.o (Ql_FOTA_Init)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+                              ./custom/fota/src/fota_main.o (Ql_GPRS_GetPDPContextId)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+                              ./example/nema_pro.o (Ql_IIC_Write)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+                              ./ril/src/ril_sms.o (LIB_SMS_IsValidHexStr)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+                              ./ril/src/ril_bluetooth.o (Ql_MEM_Alloc)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+                              D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o) (api_notsup)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                              ./ril/src/ril_bluetooth.o (Ql_Debug_Trace)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+                              ./custom/config/sys_config.o (proc_reserved2)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                              ./custom/config/sys_config.o (proc_reserved1)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+                              ./custom/fota/src/fota_http.o (Ql_SOC_CreateEx)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                              ./ril/src/Ril_dtmf.o (Ql_atof)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+                              ./ril/src/ril_ftp.o (Ql_Sleep)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                              ./example/example_mqtt.o (Ql_OS_GetMessage)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+                              ./example/example_mqtt.o (Ql_GetLocalTime)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+                              ./example/example_mqtt.o (Ql_Timer_Register)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                              ./example/example_mqtt.o (Ql_UART_Register)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                              ./example/example_mqtt.o (Ql_WTD_Init)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+                              D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o) (Ql_GPIO_Init)
+D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ocpu_init.o)
+                              D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o) (_OCPU_InitUserMem)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                              D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o) (memcpy)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                              ./ril/src/ril_alarm.o (memset)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                              ./custom/fota/src/fota_http.o (__aeabi_uidiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+                              D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o) (__aeabi_idiv)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                              C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                              ./example/example_mqtt.o (__aeabi_dsub)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+                              ./example/example_mqtt.o (__aeabi_dmul)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpdf2.o)
+                              ./example/example_mqtt.o (__aeabi_dcmpeq)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                              ./ril/src/Ril_dtmf.o (__aeabi_d2iz)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+                              ./example/example_mqtt.o (__aeabi_d2uiz)
+C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                              ./ril/src/ril_location.o (__aeabi_d2f)
+
+Allocating common symbols
+Common symbol       size              file
+
+Ql_snprintf         0x4               D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+Ql_sprintf          0x4               D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+Ql_Debug_Trace      0x4               D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+SecureDataStringLen
+                    0x4               ./ril/src/ril_system.o
+u4OverflowPkt       0x4               ./example/nema_pro.o
+Ql_vsprintf         0x4               D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+Ql_sscanf           0x4               D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+rx_state            0x1               ./example/nema_pro.o
+g_comingCall        0x124             ./ril/src/ril_telephony.o
+Fota_gprsCfg        0xb0              ./custom/fota/src/fota_main.o
+FotaConfig          0x10              ./custom/fota/src/fota_main.o
+latlngString        0x200             ./example/example_mqtt.o
+id_que              0x600             ./example/nema_pro.o
+wtdID               0x4               ./example/example_mqtt.o
+SPEED               0x8               ./example/example_mqtt.o
+u4PktInQueue        0x4               ./example/nema_pro.o
+time                0x1c              ./example/example_mqtt.o
+id_que_tail         0x2               ./example/nema_pro.o
+rssi                0x4               ./example/example_mqtt.o
+id_que_head         0x2               ./example/nema_pro.o
+NSV                 0x4               ./example/example_mqtt.o
+httpMainContext     0x234             ./custom/fota/src/fota_http.o
+totalSeconds        0x8               ./example/example_mqtt.o
+rx_que              0x8000            ./example/nema_pro.o
+ber                 0x4               ./example/example_mqtt.o
+jsonString          0x400             ./example/example_mqtt.o
+rd_buf              0x100             ./example/nema_pro.o
+rx_que_head         0x2               ./example/nema_pro.o
+u4SyncPkt           0x4               ./example/nema_pro.o
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/Ril_dtmf.o
+ .data          0x00000000        0x0 ./ril/src/Ril_dtmf.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_alarm.o
+ .text          0x00000000      0x534 ./ril/src/ril_alarm.o
+ .data          0x00000000        0x0 ./ril/src/ril_alarm.o
+ .bss           0x00000000        0x0 ./ril/src/ril_alarm.o
+ .rodata        0x00000000       0x50 ./ril/src/ril_alarm.o
+ .rodata.str1.4
+                0x00000000       0x90 ./ril/src/ril_alarm.o
+ .debug_info    0x00000000      0xb1a ./ril/src/ril_alarm.o
+ .debug_abbrev  0x00000000      0x18f ./ril/src/ril_alarm.o
+ .debug_loc     0x00000000      0x430 ./ril/src/ril_alarm.o
+ .debug_aranges
+                0x00000000       0x20 ./ril/src/ril_alarm.o
+ .debug_ranges  0x00000000       0x20 ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x93 ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_alarm.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_alarm.o
+ .debug_line    0x00000000      0x26d ./ril/src/ril_alarm.o
+ .debug_str     0x00000000     0x36c6 ./ril/src/ril_alarm.o
+ .comment       0x00000000       0x31 ./ril/src/ril_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_alarm.o
+ .debug_frame   0x00000000       0x90 ./ril/src/ril_alarm.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_atResponse.o
+ .data          0x00000000        0x0 ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_atResponse.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_audio.o
+ .text          0x00000000      0xae4 ./ril/src/ril_audio.o
+ .data          0x00000000        0x1 ./ril/src/ril_audio.o
+ .rodata.str1.4
+                0x00000000      0x198 ./ril/src/ril_audio.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_audio.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_audio.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_bluetooth.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_custom.o
+ .data          0x00000000        0x0 ./ril/src/ril_custom.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_custom.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_custom.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_custom.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_custom.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_custom.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_custom.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ftp.o
+ .text          0x00000000      0xfcc ./ril/src/ril_ftp.o
+ .data          0x00000000        0x0 ./ril/src/ril_ftp.o
+ .bss           0x00000000        0x0 ./ril/src/ril_ftp.o
+ .rodata.str1.4
+                0x00000000      0x2c0 ./ril/src/ril_ftp.o
+ .debug_info    0x00000000     0x18e2 ./ril/src/ril_ftp.o
+ .debug_abbrev  0x00000000      0x29b ./ril/src/ril_ftp.o
+ .debug_loc     0x00000000      0xc67 ./ril/src/ril_ftp.o
+ .debug_aranges
+                0x00000000       0x20 ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0xf6 ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_ftp.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_ftp.o
+ .debug_line    0x00000000      0x3a7 ./ril/src/ril_ftp.o
+ .debug_str     0x00000000     0x3ad6 ./ril/src/ril_ftp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_ftp.o
+ .debug_frame   0x00000000      0x240 ./ril/src/ril_ftp.o
+ .group         0x00000000        0x8 ./ril/src/ril_gps.o
+ .group         0x00000000        0x8 ./ril/src/ril_gps.o
+ .group         0x00000000        0x8 ./ril/src/ril_gps.o
+ .group         0x00000000        0x8 ./ril/src/ril_gps.o
+ .group         0x00000000        0x8 ./ril/src/ril_gps.o
+ .data          0x00000000        0x0 ./ril/src/ril_gps.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_gps.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_gps.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_gps.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_gps.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_gps.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_http.o
+ .text          0x00000000      0x61c ./ril/src/ril_http.o
+ .data          0x00000000        0x0 ./ril/src/ril_http.o
+ .rodata        0x00000000       0x98 ./ril/src/ril_http.o
+ .rodata.str1.4
+                0x00000000       0x88 ./ril/src/ril_http.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_http.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_http.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_init.o
+ .bss           0x00000000        0x0 ./ril/src/ril_init.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_init.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_init.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_location.o
+ .data          0x00000000        0x0 ./ril/src/ril_location.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_location.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_location.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_network.o
+ .data          0x00000000        0x0 ./ril/src/ril_network.o
+ .bss           0x00000000        0x0 ./ril/src/ril_network.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_network.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_network.o
+ .group         0x00000000        0x8 ./ril/src/ril_ntp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ntp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ntp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ntp.o
+ .group         0x00000000        0x8 ./ril/src/ril_ntp.o
+ .data          0x00000000        0x0 ./ril/src/ril_ntp.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_ntp.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_ntp.o
+ .debug_macro   0x00000000       0x1e ./ril/src/ril_ntp.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_ntp.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_ntp.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sim.o
+ .data          0x00000000        0x0 ./ril/src/ril_sim.o
+ .bss           0x00000000        0x0 ./ril/src/ril_sim.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_sim.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_sim.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_sms.o
+ .text          0x00000000     0x1730 ./ril/src/ril_sms.o
+ .data          0x00000000        0x0 ./ril/src/ril_sms.o
+ .bss           0x00000000        0x1 ./ril/src/ril_sms.o
+ .rodata.str1.4
+                0x00000000       0xec ./ril/src/ril_sms.o
+ .debug_info    0x00000000     0x29b1 ./ril/src/ril_sms.o
+ .debug_abbrev  0x00000000      0x354 ./ril/src/ril_sms.o
+ .debug_loc     0x00000000     0x2223 ./ril/src/ril_sms.o
+ .debug_aranges
+                0x00000000       0x20 ./ril/src/ril_sms.o
+ .debug_ranges  0x00000000      0x270 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000      0x17a ./ril/src/ril_sms.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000      0x158 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_sms.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_sms.o
+ .debug_line    0x00000000      0x6c0 ./ril/src/ril_sms.o
+ .debug_str     0x00000000     0x4fcb ./ril/src/ril_sms.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/ril_sms.o
+ .debug_frame   0x00000000      0x1e8 ./ril/src/ril_sms.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_system.o
+ .data          0x00000000        0x0 ./ril/src/ril_system.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_system.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_system.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_telephony.o
+ .text          0x00000000      0x2cc ./ril/src/ril_telephony.o
+ .data          0x00000000        0x0 ./ril/src/ril_telephony.o
+ .bss           0x00000000        0x0 ./ril/src/ril_telephony.o
+ .rodata.str1.4
+                0x00000000       0x48 ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_telephony.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_telephony.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_urc.o
+ .data          0x00000000        0x0 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x3a ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x18 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000      0x158 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x10 ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x4f ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x1d ./ril/src/ril_urc.o
+ .debug_macro   0x00000000       0x2b ./ril/src/ril_urc.o
+ .group         0x00000000        0x8 ./ril/src/ril_util.o
+ .group         0x00000000        0x8 ./ril/src/ril_util.o
+ .group         0x00000000        0x8 ./ril/src/ril_util.o
+ .data          0x00000000        0x0 ./ril/src/ril_util.o
+ .bss           0x00000000        0x0 ./ril/src/ril_util.o
+ .debug_macro   0x00000000      0x7f6 ./ril/src/ril_util.o
+ .debug_macro   0x00000000       0x1c ./ril/src/ril_util.o
+ .debug_macro   0x00000000       0x58 ./ril/src/ril_util.o
+ .group         0x00000000        0x8 ./example/Example_gps_iic.o
+ .text          0x00000000        0x0 ./example/Example_gps_iic.o
+ .data          0x00000000        0x0 ./example/Example_gps_iic.o
+ .bss           0x00000000        0x0 ./example/Example_gps_iic.o
+ .debug_info    0x00000000       0x21 ./example/Example_gps_iic.o
+ .debug_abbrev  0x00000000       0x13 ./example/Example_gps_iic.o
+ .debug_aranges
+                0x00000000       0x18 ./example/Example_gps_iic.o
+ .debug_macro   0x00000000       0x11 ./example/Example_gps_iic.o
+ .debug_macro   0x00000000      0x7f6 ./example/Example_gps_iic.o
+ .debug_line    0x00000000       0x3d ./example/Example_gps_iic.o
+ .debug_str     0x00000000     0x21c8 ./example/Example_gps_iic.o
+ .comment       0x00000000       0x31 ./example/Example_gps_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/Example_gps_iic.o
+ .group         0x00000000        0x8 ./example/NM_MQTT.o
+ .text          0x00000000        0x0 ./example/NM_MQTT.o
+ .data          0x00000000        0x0 ./example/NM_MQTT.o
+ .bss           0x00000000        0x0 ./example/NM_MQTT.o
+ .debug_info    0x00000000       0x21 ./example/NM_MQTT.o
+ .debug_abbrev  0x00000000       0x13 ./example/NM_MQTT.o
+ .debug_aranges
+                0x00000000       0x18 ./example/NM_MQTT.o
+ .debug_macro   0x00000000       0x11 ./example/NM_MQTT.o
+ .debug_macro   0x00000000      0x7f6 ./example/NM_MQTT.o
+ .debug_line    0x00000000       0x35 ./example/NM_MQTT.o
+ .debug_str     0x00000000     0x21c0 ./example/NM_MQTT.o
+ .comment       0x00000000       0x31 ./example/NM_MQTT.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/NM_MQTT.o
+ .group         0x00000000        0x8 ./example/example_adc.o
+ .text          0x00000000        0x0 ./example/example_adc.o
+ .data          0x00000000        0x0 ./example/example_adc.o
+ .bss           0x00000000        0x0 ./example/example_adc.o
+ .debug_info    0x00000000       0x21 ./example/example_adc.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_adc.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_adc.o
+ .debug_macro   0x00000000       0x11 ./example/example_adc.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_adc.o
+ .debug_line    0x00000000       0x39 ./example/example_adc.o
+ .debug_str     0x00000000     0x21c4 ./example/example_adc.o
+ .comment       0x00000000       0x31 ./example/example_adc.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_adc.o
+ .group         0x00000000        0x8 ./example/example_alarm.o
+ .text          0x00000000        0x0 ./example/example_alarm.o
+ .data          0x00000000        0x0 ./example/example_alarm.o
+ .bss           0x00000000        0x0 ./example/example_alarm.o
+ .debug_info    0x00000000       0x21 ./example/example_alarm.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_alarm.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_alarm.o
+ .debug_macro   0x00000000       0x11 ./example/example_alarm.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_alarm.o
+ .debug_line    0x00000000       0x3b ./example/example_alarm.o
+ .debug_str     0x00000000     0x21c6 ./example/example_alarm.o
+ .comment       0x00000000       0x31 ./example/example_alarm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_alarm.o
+ .group         0x00000000        0x8 ./example/example_audio.o
+ .text          0x00000000        0x0 ./example/example_audio.o
+ .data          0x00000000        0x0 ./example/example_audio.o
+ .bss           0x00000000        0x0 ./example/example_audio.o
+ .debug_info    0x00000000       0x21 ./example/example_audio.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_audio.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_audio.o
+ .debug_macro   0x00000000       0x11 ./example/example_audio.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_audio.o
+ .debug_line    0x00000000       0x3b ./example/example_audio.o
+ .debug_str     0x00000000     0x21c6 ./example/example_audio.o
+ .comment       0x00000000       0x31 ./example/example_audio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_audio.o
+ .group         0x00000000        0x8 ./example/example_bluetooth.o
+ .text          0x00000000        0x0 ./example/example_bluetooth.o
+ .data          0x00000000        0x0 ./example/example_bluetooth.o
+ .bss           0x00000000        0x0 ./example/example_bluetooth.o
+ .debug_info    0x00000000       0x21 ./example/example_bluetooth.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_bluetooth.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_bluetooth.o
+ .debug_macro   0x00000000       0x11 ./example/example_bluetooth.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_bluetooth.o
+ .debug_line    0x00000000       0x3f ./example/example_bluetooth.o
+ .debug_str     0x00000000     0x21ca ./example/example_bluetooth.o
+ .comment       0x00000000       0x31 ./example/example_bluetooth.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_bluetooth.o
+ .group         0x00000000        0x8 ./example/example_call.o
+ .text          0x00000000        0x0 ./example/example_call.o
+ .data          0x00000000        0x0 ./example/example_call.o
+ .bss           0x00000000        0x0 ./example/example_call.o
+ .debug_info    0x00000000       0x21 ./example/example_call.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_call.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_call.o
+ .debug_macro   0x00000000       0x11 ./example/example_call.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_call.o
+ .debug_line    0x00000000       0x3a ./example/example_call.o
+ .debug_str     0x00000000     0x21c5 ./example/example_call.o
+ .comment       0x00000000       0x31 ./example/example_call.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_call.o
+ .group         0x00000000        0x8 ./example/example_clk.o
+ .text          0x00000000        0x0 ./example/example_clk.o
+ .data          0x00000000        0x0 ./example/example_clk.o
+ .bss           0x00000000        0x0 ./example/example_clk.o
+ .debug_info    0x00000000       0x21 ./example/example_clk.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_clk.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_clk.o
+ .debug_macro   0x00000000       0x11 ./example/example_clk.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_clk.o
+ .debug_line    0x00000000       0x39 ./example/example_clk.o
+ .debug_str     0x00000000     0x21c4 ./example/example_clk.o
+ .comment       0x00000000       0x31 ./example/example_clk.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_clk.o
+ .group         0x00000000        0x8 ./example/example_csd.o
+ .text          0x00000000        0x0 ./example/example_csd.o
+ .data          0x00000000        0x0 ./example/example_csd.o
+ .bss           0x00000000        0x0 ./example/example_csd.o
+ .debug_info    0x00000000       0x21 ./example/example_csd.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_csd.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_csd.o
+ .debug_macro   0x00000000       0x11 ./example/example_csd.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_csd.o
+ .debug_line    0x00000000       0x39 ./example/example_csd.o
+ .debug_str     0x00000000     0x21c4 ./example/example_csd.o
+ .comment       0x00000000       0x31 ./example/example_csd.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_csd.o
+ .group         0x00000000        0x8 ./example/example_download_epo.o
+ .text          0x00000000        0x0 ./example/example_download_epo.o
+ .data          0x00000000        0x0 ./example/example_download_epo.o
+ .bss           0x00000000        0x0 ./example/example_download_epo.o
+ .debug_info    0x00000000       0x21 ./example/example_download_epo.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_download_epo.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_download_epo.o
+ .debug_macro   0x00000000       0x11 ./example/example_download_epo.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_download_epo.o
+ .debug_line    0x00000000       0x42 ./example/example_download_epo.o
+ .debug_str     0x00000000     0x21cd ./example/example_download_epo.o
+ .comment       0x00000000       0x31 ./example/example_download_epo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_download_epo.o
+ .group         0x00000000        0x8 ./example/example_dtmf.o
+ .text          0x00000000        0x0 ./example/example_dtmf.o
+ .data          0x00000000        0x0 ./example/example_dtmf.o
+ .bss           0x00000000        0x0 ./example/example_dtmf.o
+ .debug_info    0x00000000       0x21 ./example/example_dtmf.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_dtmf.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_dtmf.o
+ .debug_macro   0x00000000       0x11 ./example/example_dtmf.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_dtmf.o
+ .debug_line    0x00000000       0x3a ./example/example_dtmf.o
+ .debug_str     0x00000000     0x21c5 ./example/example_dtmf.o
+ .comment       0x00000000       0x31 ./example/example_dtmf.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_dtmf.o
+ .group         0x00000000        0x8 ./example/example_eint.o
+ .text          0x00000000        0x0 ./example/example_eint.o
+ .data          0x00000000        0x0 ./example/example_eint.o
+ .bss           0x00000000        0x0 ./example/example_eint.o
+ .debug_info    0x00000000       0x21 ./example/example_eint.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_eint.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_eint.o
+ .debug_macro   0x00000000       0x11 ./example/example_eint.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_eint.o
+ .debug_line    0x00000000       0x3a ./example/example_eint.o
+ .debug_str     0x00000000     0x21c5 ./example/example_eint.o
+ .comment       0x00000000       0x31 ./example/example_eint.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_eint.o
+ .group         0x00000000        0x8 ./example/example_file.o
+ .text          0x00000000        0x0 ./example/example_file.o
+ .data          0x00000000        0x0 ./example/example_file.o
+ .bss           0x00000000        0x0 ./example/example_file.o
+ .debug_info    0x00000000       0x21 ./example/example_file.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_file.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_file.o
+ .debug_macro   0x00000000       0x11 ./example/example_file.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_file.o
+ .debug_line    0x00000000       0x3a ./example/example_file.o
+ .debug_str     0x00000000     0x21c5 ./example/example_file.o
+ .comment       0x00000000       0x31 ./example/example_file.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_file.o
+ .group         0x00000000        0x8 ./example/example_float_math.o
+ .text          0x00000000        0x0 ./example/example_float_math.o
+ .data          0x00000000        0x0 ./example/example_float_math.o
+ .bss           0x00000000        0x0 ./example/example_float_math.o
+ .debug_info    0x00000000       0x21 ./example/example_float_math.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_float_math.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_float_math.o
+ .debug_macro   0x00000000       0x11 ./example/example_float_math.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_float_math.o
+ .debug_line    0x00000000       0x40 ./example/example_float_math.o
+ .debug_str     0x00000000     0x21cb ./example/example_float_math.o
+ .comment       0x00000000       0x31 ./example/example_float_math.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_float_math.o
+ .group         0x00000000        0x8 ./example/example_fota_ftp.o
+ .text          0x00000000        0x0 ./example/example_fota_ftp.o
+ .data          0x00000000        0x0 ./example/example_fota_ftp.o
+ .bss           0x00000000        0x0 ./example/example_fota_ftp.o
+ .debug_info    0x00000000       0x21 ./example/example_fota_ftp.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_fota_ftp.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_fota_ftp.o
+ .debug_macro   0x00000000       0x11 ./example/example_fota_ftp.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_fota_ftp.o
+ .debug_line    0x00000000       0x3e ./example/example_fota_ftp.o
+ .debug_str     0x00000000     0x21c9 ./example/example_fota_ftp.o
+ .comment       0x00000000       0x31 ./example/example_fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_ftp.o
+ .group         0x00000000        0x8 ./example/example_fota_http.o
+ .text          0x00000000        0x0 ./example/example_fota_http.o
+ .data          0x00000000        0x0 ./example/example_fota_http.o
+ .bss           0x00000000        0x0 ./example/example_fota_http.o
+ .debug_info    0x00000000       0x21 ./example/example_fota_http.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_fota_http.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_fota_http.o
+ .debug_macro   0x00000000       0x11 ./example/example_fota_http.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_fota_http.o
+ .debug_line    0x00000000       0x3f ./example/example_fota_http.o
+ .debug_str     0x00000000     0x21ca ./example/example_fota_http.o
+ .comment       0x00000000       0x31 ./example/example_fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_fota_http.o
+ .group         0x00000000        0x8 ./example/example_ftp.o
+ .text          0x00000000        0x0 ./example/example_ftp.o
+ .data          0x00000000        0x0 ./example/example_ftp.o
+ .bss           0x00000000        0x0 ./example/example_ftp.o
+ .debug_info    0x00000000       0x21 ./example/example_ftp.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_ftp.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_ftp.o
+ .debug_macro   0x00000000       0x11 ./example/example_ftp.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_ftp.o
+ .debug_line    0x00000000       0x39 ./example/example_ftp.o
+ .debug_str     0x00000000     0x21c4 ./example/example_ftp.o
+ .comment       0x00000000       0x31 ./example/example_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_ftp.o
+ .group         0x00000000        0x8 ./example/example_gpio.o
+ .text          0x00000000        0x0 ./example/example_gpio.o
+ .data          0x00000000        0x0 ./example/example_gpio.o
+ .bss           0x00000000        0x0 ./example/example_gpio.o
+ .debug_info    0x00000000       0x21 ./example/example_gpio.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_gpio.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_gpio.o
+ .debug_macro   0x00000000       0x11 ./example/example_gpio.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_gpio.o
+ .debug_line    0x00000000       0x3a ./example/example_gpio.o
+ .debug_str     0x00000000     0x21c5 ./example/example_gpio.o
+ .comment       0x00000000       0x31 ./example/example_gpio.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gpio.o
+ .group         0x00000000        0x8 ./example/example_gps.o
+ .text          0x00000000        0x0 ./example/example_gps.o
+ .data          0x00000000        0x0 ./example/example_gps.o
+ .bss           0x00000000        0x0 ./example/example_gps.o
+ .debug_info    0x00000000       0x21 ./example/example_gps.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_gps.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_gps.o
+ .debug_macro   0x00000000       0x11 ./example/example_gps.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_gps.o
+ .debug_line    0x00000000       0x39 ./example/example_gps.o
+ .debug_str     0x00000000     0x21c4 ./example/example_gps.o
+ .comment       0x00000000       0x31 ./example/example_gps.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_gps.o
+ .group         0x00000000        0x8 ./example/example_http.o
+ .text          0x00000000        0x0 ./example/example_http.o
+ .data          0x00000000        0x0 ./example/example_http.o
+ .bss           0x00000000        0x0 ./example/example_http.o
+ .debug_info    0x00000000       0x21 ./example/example_http.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_http.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_http.o
+ .debug_macro   0x00000000       0x11 ./example/example_http.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_http.o
+ .debug_line    0x00000000       0x3a ./example/example_http.o
+ .debug_str     0x00000000     0x21c5 ./example/example_http.o
+ .comment       0x00000000       0x31 ./example/example_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_http.o
+ .group         0x00000000        0x8 ./example/example_https.o
+ .text          0x00000000        0x0 ./example/example_https.o
+ .data          0x00000000        0x0 ./example/example_https.o
+ .bss           0x00000000        0x0 ./example/example_https.o
+ .debug_info    0x00000000       0x21 ./example/example_https.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_https.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_https.o
+ .debug_macro   0x00000000       0x11 ./example/example_https.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_https.o
+ .debug_line    0x00000000       0x3b ./example/example_https.o
+ .debug_str     0x00000000     0x21c6 ./example/example_https.o
+ .comment       0x00000000       0x31 ./example/example_https.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_https.o
+ .group         0x00000000        0x8 ./example/example_iic.o
+ .text          0x00000000        0x0 ./example/example_iic.o
+ .data          0x00000000        0x0 ./example/example_iic.o
+ .bss           0x00000000        0x0 ./example/example_iic.o
+ .debug_info    0x00000000       0x21 ./example/example_iic.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_iic.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_iic.o
+ .debug_macro   0x00000000       0x11 ./example/example_iic.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_iic.o
+ .debug_line    0x00000000       0x39 ./example/example_iic.o
+ .debug_str     0x00000000     0x21c4 ./example/example_iic.o
+ .comment       0x00000000       0x31 ./example/example_iic.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_iic.o
+ .group         0x00000000        0x8 ./example/example_location.o
+ .text          0x00000000        0x0 ./example/example_location.o
+ .data          0x00000000        0x0 ./example/example_location.o
+ .bss           0x00000000        0x0 ./example/example_location.o
+ .debug_info    0x00000000       0x21 ./example/example_location.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_location.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_location.o
+ .debug_macro   0x00000000       0x11 ./example/example_location.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_location.o
+ .debug_line    0x00000000       0x3e ./example/example_location.o
+ .debug_str     0x00000000     0x21c9 ./example/example_location.o
+ .comment       0x00000000       0x31 ./example/example_location.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_location.o
+ .group         0x00000000        0x8 ./example/example_memory.o
+ .text          0x00000000        0x0 ./example/example_memory.o
+ .data          0x00000000        0x0 ./example/example_memory.o
+ .bss           0x00000000        0x0 ./example/example_memory.o
+ .debug_info    0x00000000       0x21 ./example/example_memory.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_memory.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_memory.o
+ .debug_macro   0x00000000       0x11 ./example/example_memory.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_memory.o
+ .debug_line    0x00000000       0x3c ./example/example_memory.o
+ .debug_str     0x00000000     0x21c7 ./example/example_memory.o
+ .comment       0x00000000       0x31 ./example/example_memory.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_memory.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_mqtt.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x1c ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x58 ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x3a ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x4f ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x2b ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x1d ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x2b ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x1e ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x10 ./example/example_mqtt.o
+ .debug_macro   0x00000000      0x158 ./example/example_mqtt.o
+ .debug_macro   0x00000000       0x1c ./example/example_mqtt.o
+ .group         0x00000000        0x8 ./example/example_multitask.o
+ .text          0x00000000        0x0 ./example/example_multitask.o
+ .data          0x00000000        0x0 ./example/example_multitask.o
+ .bss           0x00000000        0x0 ./example/example_multitask.o
+ .debug_info    0x00000000       0x21 ./example/example_multitask.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_multitask.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_multitask.o
+ .debug_macro   0x00000000       0x11 ./example/example_multitask.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_multitask.o
+ .debug_line    0x00000000       0x3f ./example/example_multitask.o
+ .debug_str     0x00000000     0x21ca ./example/example_multitask.o
+ .comment       0x00000000       0x31 ./example/example_multitask.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask.o
+ .group         0x00000000        0x8 ./example/example_multitask_port.o
+ .text          0x00000000        0x0 ./example/example_multitask_port.o
+ .data          0x00000000        0x0 ./example/example_multitask_port.o
+ .bss           0x00000000        0x0 ./example/example_multitask_port.o
+ .debug_info    0x00000000       0x21 ./example/example_multitask_port.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_multitask_port.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_multitask_port.o
+ .debug_macro   0x00000000       0x11 ./example/example_multitask_port.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_multitask_port.o
+ .debug_line    0x00000000       0x44 ./example/example_multitask_port.o
+ .debug_str     0x00000000     0x21cf ./example/example_multitask_port.o
+ .comment       0x00000000       0x31 ./example/example_multitask_port.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_multitask_port.o
+ .group         0x00000000        0x8 ./example/example_pwm.o
+ .text          0x00000000        0x0 ./example/example_pwm.o
+ .data          0x00000000        0x0 ./example/example_pwm.o
+ .bss           0x00000000        0x0 ./example/example_pwm.o
+ .debug_info    0x00000000       0x21 ./example/example_pwm.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_pwm.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_pwm.o
+ .debug_macro   0x00000000       0x11 ./example/example_pwm.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_pwm.o
+ .debug_line    0x00000000       0x39 ./example/example_pwm.o
+ .debug_str     0x00000000     0x21c4 ./example/example_pwm.o
+ .comment       0x00000000       0x31 ./example/example_pwm.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_pwm.o
+ .group         0x00000000        0x8 ./example/example_sms.o
+ .text          0x00000000        0x0 ./example/example_sms.o
+ .data          0x00000000        0x0 ./example/example_sms.o
+ .bss           0x00000000        0x0 ./example/example_sms.o
+ .debug_info    0x00000000       0x21 ./example/example_sms.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_sms.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_sms.o
+ .debug_macro   0x00000000       0x11 ./example/example_sms.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_sms.o
+ .debug_line    0x00000000       0x39 ./example/example_sms.o
+ .debug_str     0x00000000     0x21c4 ./example/example_sms.o
+ .comment       0x00000000       0x31 ./example/example_sms.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_sms.o
+ .group         0x00000000        0x8 ./example/example_spi.o
+ .text          0x00000000        0x0 ./example/example_spi.o
+ .data          0x00000000        0x0 ./example/example_spi.o
+ .bss           0x00000000        0x0 ./example/example_spi.o
+ .debug_info    0x00000000       0x21 ./example/example_spi.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_spi.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_spi.o
+ .debug_macro   0x00000000       0x11 ./example/example_spi.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_spi.o
+ .debug_line    0x00000000       0x39 ./example/example_spi.o
+ .debug_str     0x00000000     0x21c4 ./example/example_spi.o
+ .comment       0x00000000       0x31 ./example/example_spi.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_spi.o
+ .group         0x00000000        0x8 ./example/example_system.o
+ .text          0x00000000        0x0 ./example/example_system.o
+ .data          0x00000000        0x0 ./example/example_system.o
+ .bss           0x00000000        0x0 ./example/example_system.o
+ .debug_info    0x00000000       0x21 ./example/example_system.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_system.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_system.o
+ .debug_macro   0x00000000       0x11 ./example/example_system.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_system.o
+ .debug_line    0x00000000       0x3c ./example/example_system.o
+ .debug_str     0x00000000     0x21c7 ./example/example_system.o
+ .comment       0x00000000       0x31 ./example/example_system.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_system.o
+ .group         0x00000000        0x8 ./example/example_tcp_demo.o
+ .text          0x00000000        0x0 ./example/example_tcp_demo.o
+ .data          0x00000000        0x0 ./example/example_tcp_demo.o
+ .bss           0x00000000        0x0 ./example/example_tcp_demo.o
+ .debug_info    0x00000000       0x21 ./example/example_tcp_demo.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_tcp_demo.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_tcp_demo.o
+ .debug_macro   0x00000000       0x11 ./example/example_tcp_demo.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_tcp_demo.o
+ .debug_line    0x00000000       0x3e ./example/example_tcp_demo.o
+ .debug_str     0x00000000     0x21c9 ./example/example_tcp_demo.o
+ .comment       0x00000000       0x31 ./example/example_tcp_demo.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcp_demo.o
+ .group         0x00000000        0x8 ./example/example_tcpclient.o
+ .text          0x00000000        0x0 ./example/example_tcpclient.o
+ .data          0x00000000        0x0 ./example/example_tcpclient.o
+ .bss           0x00000000        0x0 ./example/example_tcpclient.o
+ .debug_info    0x00000000       0x21 ./example/example_tcpclient.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_tcpclient.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_tcpclient.o
+ .debug_macro   0x00000000       0x11 ./example/example_tcpclient.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_tcpclient.o
+ .debug_line    0x00000000       0x3f ./example/example_tcpclient.o
+ .debug_str     0x00000000     0x21ca ./example/example_tcpclient.o
+ .comment       0x00000000       0x31 ./example/example_tcpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpclient.o
+ .group         0x00000000        0x8 ./example/example_tcpserver.o
+ .text          0x00000000        0x0 ./example/example_tcpserver.o
+ .data          0x00000000        0x0 ./example/example_tcpserver.o
+ .bss           0x00000000        0x0 ./example/example_tcpserver.o
+ .debug_info    0x00000000       0x21 ./example/example_tcpserver.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_tcpserver.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_tcpserver.o
+ .debug_macro   0x00000000       0x11 ./example/example_tcpserver.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_tcpserver.o
+ .debug_line    0x00000000       0x3f ./example/example_tcpserver.o
+ .debug_str     0x00000000     0x21ca ./example/example_tcpserver.o
+ .comment       0x00000000       0x31 ./example/example_tcpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_tcpserver.o
+ .group         0x00000000        0x8 ./example/example_time.o
+ .text          0x00000000        0x0 ./example/example_time.o
+ .data          0x00000000        0x0 ./example/example_time.o
+ .bss           0x00000000        0x0 ./example/example_time.o
+ .debug_info    0x00000000       0x21 ./example/example_time.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_time.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_time.o
+ .debug_macro   0x00000000       0x11 ./example/example_time.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_time.o
+ .debug_line    0x00000000       0x3a ./example/example_time.o
+ .debug_str     0x00000000     0x21c5 ./example/example_time.o
+ .comment       0x00000000       0x31 ./example/example_time.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_time.o
+ .group         0x00000000        0x8 ./example/example_timer.o
+ .text          0x00000000        0x0 ./example/example_timer.o
+ .data          0x00000000        0x0 ./example/example_timer.o
+ .bss           0x00000000        0x0 ./example/example_timer.o
+ .debug_info    0x00000000       0x21 ./example/example_timer.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_timer.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_timer.o
+ .debug_macro   0x00000000       0x11 ./example/example_timer.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_timer.o
+ .debug_line    0x00000000       0x3b ./example/example_timer.o
+ .debug_str     0x00000000     0x21c6 ./example/example_timer.o
+ .comment       0x00000000       0x31 ./example/example_timer.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_timer.o
+ .group         0x00000000        0x8 ./example/example_transpass.o
+ .text          0x00000000        0x0 ./example/example_transpass.o
+ .data          0x00000000        0x0 ./example/example_transpass.o
+ .bss           0x00000000        0x0 ./example/example_transpass.o
+ .debug_info    0x00000000       0x21 ./example/example_transpass.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_transpass.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_transpass.o
+ .debug_macro   0x00000000       0x11 ./example/example_transpass.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_transpass.o
+ .debug_line    0x00000000       0x3f ./example/example_transpass.o
+ .debug_str     0x00000000     0x21ca ./example/example_transpass.o
+ .comment       0x00000000       0x31 ./example/example_transpass.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_transpass.o
+ .group         0x00000000        0x8 ./example/example_udpclient.o
+ .text          0x00000000        0x0 ./example/example_udpclient.o
+ .data          0x00000000        0x0 ./example/example_udpclient.o
+ .bss           0x00000000        0x0 ./example/example_udpclient.o
+ .debug_info    0x00000000       0x21 ./example/example_udpclient.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_udpclient.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_udpclient.o
+ .debug_macro   0x00000000       0x11 ./example/example_udpclient.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_udpclient.o
+ .debug_line    0x00000000       0x3f ./example/example_udpclient.o
+ .debug_str     0x00000000     0x21ca ./example/example_udpclient.o
+ .comment       0x00000000       0x31 ./example/example_udpclient.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpclient.o
+ .group         0x00000000        0x8 ./example/example_udpserver.o
+ .text          0x00000000        0x0 ./example/example_udpserver.o
+ .data          0x00000000        0x0 ./example/example_udpserver.o
+ .bss           0x00000000        0x0 ./example/example_udpserver.o
+ .debug_info    0x00000000       0x21 ./example/example_udpserver.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_udpserver.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_udpserver.o
+ .debug_macro   0x00000000       0x11 ./example/example_udpserver.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_udpserver.o
+ .debug_line    0x00000000       0x3f ./example/example_udpserver.o
+ .debug_str     0x00000000     0x21ca ./example/example_udpserver.o
+ .comment       0x00000000       0x31 ./example/example_udpserver.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_udpserver.o
+ .group         0x00000000        0x8 ./example/example_watchdog.o
+ .text          0x00000000        0x0 ./example/example_watchdog.o
+ .data          0x00000000        0x0 ./example/example_watchdog.o
+ .bss           0x00000000        0x0 ./example/example_watchdog.o
+ .debug_info    0x00000000       0x21 ./example/example_watchdog.o
+ .debug_abbrev  0x00000000       0x13 ./example/example_watchdog.o
+ .debug_aranges
+                0x00000000       0x18 ./example/example_watchdog.o
+ .debug_macro   0x00000000       0x11 ./example/example_watchdog.o
+ .debug_macro   0x00000000      0x7f6 ./example/example_watchdog.o
+ .debug_line    0x00000000       0x3e ./example/example_watchdog.o
+ .debug_str     0x00000000     0x21c9 ./example/example_watchdog.o
+ .comment       0x00000000       0x31 ./example/example_watchdog.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/example_watchdog.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/nema_pro.o
+ .text          0x00000000      0xa14 ./example/nema_pro.o
+ .data          0x00000000        0x0 ./example/nema_pro.o
+ .bss           0x00000000      0xa08 ./example/nema_pro.o
+ .rodata.str1.4
+                0x00000000      0x1ac ./example/nema_pro.o
+ .debug_info    0x00000000      0xfe7 ./example/nema_pro.o
+ .debug_abbrev  0x00000000      0x2ad ./example/nema_pro.o
+ .debug_loc     0x00000000      0x64d ./example/nema_pro.o
+ .debug_aranges
+                0x00000000       0x20 ./example/nema_pro.o
+ .debug_macro   0x00000000      0x113 ./example/nema_pro.o
+ .debug_macro   0x00000000      0x7f6 ./example/nema_pro.o
+ .debug_macro   0x00000000       0x1c ./example/nema_pro.o
+ .debug_macro   0x00000000       0x58 ./example/nema_pro.o
+ .debug_macro   0x00000000       0x3a ./example/nema_pro.o
+ .debug_macro   0x00000000       0x3a ./example/nema_pro.o
+ .debug_macro   0x00000000       0x4f ./example/nema_pro.o
+ .debug_macro   0x00000000       0x2b ./example/nema_pro.o
+ .debug_macro   0x00000000       0x1d ./example/nema_pro.o
+ .debug_macro   0x00000000       0x2b ./example/nema_pro.o
+ .debug_macro   0x00000000       0x10 ./example/nema_pro.o
+ .debug_line    0x00000000      0x384 ./example/nema_pro.o
+ .debug_str     0x00000000     0x3b69 ./example/nema_pro.o
+ .comment       0x00000000       0x31 ./example/nema_pro.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/nema_pro.o
+ .debug_frame   0x00000000      0x118 ./example/nema_pro.o
+ COMMON         0x00000000     0x8718 ./example/nema_pro.o
+ .group         0x00000000        0x8 ./example/utility.o
+ .group         0x00000000        0x8 ./example/utility.o
+ .group         0x00000000        0x8 ./example/utility.o
+ .text          0x00000000      0x188 ./example/utility.o
+ .data          0x00000000        0x0 ./example/utility.o
+ .bss           0x00000000        0x0 ./example/utility.o
+ .rodata.str1.4
+                0x00000000       0x10 ./example/utility.o
+ .debug_info    0x00000000      0x27f ./example/utility.o
+ .debug_abbrev  0x00000000      0x153 ./example/utility.o
+ .debug_loc     0x00000000      0x2cc ./example/utility.o
+ .debug_aranges
+                0x00000000       0x20 ./example/utility.o
+ .debug_ranges  0x00000000       0x30 ./example/utility.o
+ .debug_macro   0x00000000       0x37 ./example/utility.o
+ .debug_macro   0x00000000      0x7f6 ./example/utility.o
+ .debug_macro   0x00000000       0x1c ./example/utility.o
+ .debug_macro   0x00000000       0x58 ./example/utility.o
+ .debug_line    0x00000000      0x159 ./example/utility.o
+ .debug_str     0x00000000     0x2425 ./example/utility.o
+ .comment       0x00000000       0x31 ./example/utility.o
+ .ARM.attributes
+                0x00000000       0x2b ./example/utility.o
+ .debug_frame   0x00000000       0x3c ./example/utility.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_ftp.o
+ .text          0x00000000     0x109c ./custom/fota/src/fota_ftp.o
+ .data          0x00000000        0x0 ./custom/fota/src/fota_ftp.o
+ .bss           0x00000000       0xb0 ./custom/fota/src/fota_ftp.o
+ .rodata.str1.4
+                0x00000000      0x6ec ./custom/fota/src/fota_ftp.o
+ .debug_info    0x00000000     0x1926 ./custom/fota/src/fota_ftp.o
+ .debug_abbrev  0x00000000      0x203 ./custom/fota/src/fota_ftp.o
+ .debug_loc     0x00000000      0xa12 ./custom/fota/src/fota_ftp.o
+ .debug_aranges
+                0x00000000       0x20 ./custom/fota/src/fota_ftp.o
+ .debug_ranges  0x00000000      0x120 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000      0x133 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000      0x7f6 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x3a ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x4f ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x1d ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x10 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x4c ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x1e ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x10 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x58 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x34 ./custom/fota/src/fota_ftp.o
+ .debug_macro   0x00000000       0x40 ./custom/fota/src/fota_ftp.o
+ .debug_line    0x00000000      0x4e8 ./custom/fota/src/fota_ftp.o
+ .debug_str     0x00000000     0x3f4b ./custom/fota/src/fota_ftp.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_ftp.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_ftp.o
+ .debug_frame   0x00000000       0x78 ./custom/fota/src/fota_ftp.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http.o
+ .text          0x00000000     0x14bc ./custom/fota/src/fota_http.o
+ .data          0x00000000       0x34 ./custom/fota/src/fota_http.o
+ .bss           0x00000000        0x0 ./custom/fota/src/fota_http.o
+ .rodata.str1.4
+                0x00000000      0x528 ./custom/fota/src/fota_http.o
+ .debug_info    0x00000000     0x206d ./custom/fota/src/fota_http.o
+ .debug_abbrev  0x00000000      0x3e9 ./custom/fota/src/fota_http.o
+ .debug_loc     0x00000000      0x9e5 ./custom/fota/src/fota_http.o
+ .debug_aranges
+                0x00000000       0x20 ./custom/fota/src/fota_http.o
+ .debug_ranges  0x00000000       0x48 ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0xfd ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000      0x7f6 ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x3a ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x58 ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x4f ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x10 ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x28 ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x1d ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_http.o
+ .debug_macro   0x00000000       0x40 ./custom/fota/src/fota_http.o
+ .debug_line    0x00000000      0x50e ./custom/fota/src/fota_http.o
+ .debug_str     0x00000000     0x3701 ./custom/fota/src/fota_http.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http.o
+ .debug_frame   0x00000000      0x1d4 ./custom/fota/src/fota_http.o
+ COMMON         0x00000000      0x234 ./custom/fota/src/fota_http.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .text          0x00000000      0x92c ./custom/fota/src/fota_http_code.o
+ .data          0x00000000        0x4 ./custom/fota/src/fota_http_code.o
+ .bss           0x00000000        0x8 ./custom/fota/src/fota_http_code.o
+ .rodata.str1.4
+                0x00000000      0x104 ./custom/fota/src/fota_http_code.o
+ .debug_info    0x00000000      0xd63 ./custom/fota/src/fota_http_code.o
+ .debug_abbrev  0x00000000      0x2f1 ./custom/fota/src/fota_http_code.o
+ .debug_loc     0x00000000      0x87f ./custom/fota/src/fota_http_code.o
+ .debug_aranges
+                0x00000000       0x20 ./custom/fota/src/fota_http_code.o
+ .debug_ranges  0x00000000       0xa0 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000      0x117 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000      0x7f6 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x58 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x3a ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x4f ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x1d ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x10 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x28 ./custom/fota/src/fota_http_code.o
+ .debug_macro   0x00000000       0x40 ./custom/fota/src/fota_http_code.o
+ .debug_line    0x00000000      0x482 ./custom/fota/src/fota_http_code.o
+ .debug_str     0x00000000     0x33fc ./custom/fota/src/fota_http_code.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_http_code.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_http_code.o
+ .debug_frame   0x00000000       0xa8 ./custom/fota/src/fota_http_code.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/fota/src/fota_main.o
+ .text          0x00000000      0x3b4 ./custom/fota/src/fota_main.o
+ .data          0x00000000       0x68 ./custom/fota/src/fota_main.o
+ .bss           0x00000000       0x44 ./custom/fota/src/fota_main.o
+ .rodata.str1.4
+                0x00000000      0x1fc ./custom/fota/src/fota_main.o
+ .debug_info    0x00000000      0xa02 ./custom/fota/src/fota_main.o
+ .debug_abbrev  0x00000000      0x19a ./custom/fota/src/fota_main.o
+ .debug_loc     0x00000000      0x2bc ./custom/fota/src/fota_main.o
+ .debug_aranges
+                0x00000000       0x20 ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0xf9 ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000      0x7f6 ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x3a ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x4f ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x58 ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x3a ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x1c ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x28 ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x1d ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x2b ./custom/fota/src/fota_main.o
+ .debug_macro   0x00000000       0x40 ./custom/fota/src/fota_main.o
+ .debug_line    0x00000000      0x300 ./custom/fota/src/fota_main.o
+ .debug_str     0x00000000     0x3d68 ./custom/fota/src/fota_main.o
+ .comment       0x00000000       0x31 ./custom/fota/src/fota_main.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/fota/src/fota_main.o
+ .debug_frame   0x00000000       0x60 ./custom/fota/src/fota_main.o
+ COMMON         0x00000000       0xc0 ./custom/fota/src/fota_main.o
+ .group         0x00000000        0x8 ./custom/config/custom_sys_cfg.o
+ .group         0x00000000        0x8 ./custom/config/custom_sys_cfg.o
+ .group         0x00000000        0x8 ./custom/config/custom_sys_cfg.o
+ .group         0x00000000        0x8 ./custom/config/custom_sys_cfg.o
+ .group         0x00000000        0x8 ./custom/config/custom_sys_cfg.o
+ .text          0x00000000        0xc ./custom/config/custom_sys_cfg.o
+ .data          0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .bss           0x00000000        0x0 ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x00000000      0x7f6 ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x00000000       0x1c ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x00000000       0x18 ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x00000000       0x3a ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x00000000       0x4f ./custom/config/custom_sys_cfg.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/config/sys_config.o
+ .text          0x00000000        0x0 ./custom/config/sys_config.o
+ .data          0x00000000        0x0 ./custom/config/sys_config.o
+ .bss           0x00000000        0x0 ./custom/config/sys_config.o
+ .debug_macro   0x00000000      0x7f6 ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x3a ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x1c ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x1e ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x4f ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x1d ./custom/config/sys_config.o
+ .debug_macro   0x00000000       0x2b ./custom/config/sys_config.o
+ .group         0x00000000        0x8 ./custom/main.o
+ .text          0x00000000        0x0 ./custom/main.o
+ .data          0x00000000        0x0 ./custom/main.o
+ .bss           0x00000000        0x0 ./custom/main.o
+ .debug_info    0x00000000       0x21 ./custom/main.o
+ .debug_abbrev  0x00000000       0x13 ./custom/main.o
+ .debug_aranges
+                0x00000000       0x18 ./custom/main.o
+ .debug_macro   0x00000000       0x11 ./custom/main.o
+ .debug_macro   0x00000000      0x7f6 ./custom/main.o
+ .debug_line    0x00000000       0x31 ./custom/main.o
+ .debug_str     0x00000000     0x21bc ./custom/main.o
+ .comment       0x00000000       0x31 ./custom/main.o
+ .ARM.attributes
+                0x00000000       0x2b ./custom/main.o
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_OpenRAMFile
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Truncate
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetSize
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Rename
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CreateDir
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_DeleteDir
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_CheckDir
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindFirst
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindNext
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_FindClose
+                0x00000000       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XDelete
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_XMove
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_GetFreeSpace
+                0x00000000       0x74 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text.Ql_FS_Format
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .bss           0x00000000       0x14 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Init
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_WriteData
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Finish
+                0x00000000       0x58 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_ReadData
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text.Ql_FOTA_Update
+                0x00000000       0x58 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .rodata.str1.1
+                0x00000000       0x4e D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fota.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .bss           0x00000000       0x28 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetPDPCntxtState
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetPDPContextId
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Config
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Register
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Activate
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_ActivateEx
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_Deactivate
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_DeactivateEx
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetLocalIPAddress
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_GetDNSAddress
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text.Ql_GPRS_SetDNSAddress
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .rodata.str1.1
+                0x00000000       0xcb D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gprs.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .bss           0x00000000       0x18 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Init
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Config
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Read
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Write_Read
+                0x00000000       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text.Ql_IIC_Uninit
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .rodata.str1.1
+                0x00000000       0x53 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(iic.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .bss           0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.EncodeAddress
+                0x00000000      0x228 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeUserDataHeader
+                0x00000000       0xb8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.EncodeGSM7Bit.part.2
+                0x00000000       0xd4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeGSM7Bit
+                0x00000000      0x148 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeAddress
+                0x00000000      0x218 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecordUserDataBody.part.5
+                0x00000000      0x180 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.DecodeTimeStamp.constprop.8
+                0x00000000       0xfc D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_IsValidHexStr
+                0x00000000       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvHexOctToHexStr
+                0x00000000       0xa8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvHexStrToHexOct
+                0x00000000       0xe8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_DecodeDCS
+                0x00000000      0x164 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvAlphaToCharSet
+                0x00000000      0x43c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_ConvCharSetToAlpha
+                0x00000000      0x7b4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_DecodePDUStr
+                0x00000000      0x500 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text.LIB_SMS_EncodeSubmitPDU
+                0x00000000      0x730 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .rodata        0x00000000      0x3bc D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(lib_ril_sms.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StartPlayAudioStream
+                0x00000000       0x7c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_StopPlayAudioStream
+                0x00000000       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_GetRelativeTime_Counter
+                0x00000000       0x40 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_SecondToTicks
+                0x00000000       0x48 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_MillisecondToTicks
+                0x00000000       0x48 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_CalendarTime2LocalTime
+                0x00000000       0x58 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text.Ql_osChangeTaskPriority
+                0x00000000       0x50 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .rodata.str1.1
+                0x00000000       0xa3 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .text.get_ril_init_status
+                0x00000000       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .bss           0x00000000       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Register
+                0x00000000       0x84 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Create
+                0x00000000       0x64 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_CreateEx
+                0x00000000       0x94 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Close
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Connect
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_ConnectEx
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Send
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Recv
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_GetAckNumber
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SendTo
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_RecvFrom
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Bind
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Listen
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_Accept
+                0x00000000       0x6c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostName
+                0x00000000       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_GetIPByHostNameEx
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_IpHelper_ConvertIpAddr
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SetOption
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text.Ql_SOC_SSL_InjectCertification
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .rodata.str1.1
+                0x00000000      0x151 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .ARM.attributes
+                0x00000000       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(socket.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_create_api_hash
+                0x00000000       0x28 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_ui64toa
+                0x00000000       0xac D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_itoa  0x00000000       0x9c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memcmp
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_memmove
+                0x00000000       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_strchr
+                0x00000000       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_tolower
+                0x00000000        0x8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text.Ql_isdigit
+                0x00000000       0x14 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetUID
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetMsSincePwrOn
+                0x00000000       0x84 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .text.Ql_GetCoreVer
+                0x00000000       0x6c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_CreateSemaphore
+                0x00000000       0x5c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_TakeSemaphore
+                0x00000000       0x5c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GiveSemaphore
+                0x00000000       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetActiveTaskId
+                0x00000000       0x58 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_SetLastErrorCode
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_GetLastErrorCode
+                0x00000000       0x58 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrentTaskPriority
+                0x00000000       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text.Ql_OS_GetCurrenTaskLeftStackSize
+                0x00000000       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .text.Ql_SetLocalTime
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .text.Ql_MKTime2CalendarTime
+                0x00000000       0x64 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .text.Ql_Timer_RegisterFast
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_OpenEx
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Enable
+                0x00000000       0x5c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_RX_Disable
+                0x00000000       0x5c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetDCBConfig
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetDCBConfig
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_GetOption
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetOption
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_SetPinStatus
+                0x00000000       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text.Ql_UART_Close
+                0x00000000       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_GetInitState
+                0x00000000       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithGPTimer
+                0x00000000       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithGPTimer
+                0x00000000       0x18 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StartExtWatchdog_WithStackTimer
+                0x00000000       0x48 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text.OCPU_WTD_StopExtWatchdog_WithStackTimer
+                0x00000000       0x38 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .text          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetLevel
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetDirection
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetDirection
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_SetPullSelection
+                0x00000000       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_GetPullSelection
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .text.Ql_GPIO_Uninit
+                0x00000000       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .data          0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ocpu_init.o)
+ .bss           0x00000000        0x0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ocpu_init.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .text          0x00000000      0x150 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .debug_frame   0x00000000       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x00000000       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_divsi3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpdf2.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x00000000        0x0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x102db040         0x00050000         xr
+RAM              0xf03d2000         0x00019000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./ril/src/Ril_dtmf.o
+LOAD ./ril/src/ril_alarm.o
+LOAD ./ril/src/ril_atResponse.o
+LOAD ./ril/src/ril_audio.o
+LOAD ./ril/src/ril_bluetooth.o
+LOAD ./ril/src/ril_custom.o
+LOAD ./ril/src/ril_ftp.o
+LOAD ./ril/src/ril_gps.o
+LOAD ./ril/src/ril_http.o
+LOAD ./ril/src/ril_init.o
+LOAD ./ril/src/ril_location.o
+LOAD ./ril/src/ril_network.o
+LOAD ./ril/src/ril_ntp.o
+LOAD ./ril/src/ril_sim.o
+LOAD ./ril/src/ril_sms.o
+LOAD ./ril/src/ril_system.o
+LOAD ./ril/src/ril_telephony.o
+LOAD ./ril/src/ril_urc.o
+LOAD ./ril/src/ril_util.o
+LOAD ./example/Example_gps_iic.o
+LOAD ./example/NM_MQTT.o
+LOAD ./example/example_adc.o
+LOAD ./example/example_alarm.o
+LOAD ./example/example_audio.o
+LOAD ./example/example_bluetooth.o
+LOAD ./example/example_call.o
+LOAD ./example/example_clk.o
+LOAD ./example/example_csd.o
+LOAD ./example/example_download_epo.o
+LOAD ./example/example_dtmf.o
+LOAD ./example/example_eint.o
+LOAD ./example/example_file.o
+LOAD ./example/example_float_math.o
+LOAD ./example/example_fota_ftp.o
+LOAD ./example/example_fota_http.o
+LOAD ./example/example_ftp.o
+LOAD ./example/example_gpio.o
+LOAD ./example/example_gps.o
+LOAD ./example/example_http.o
+LOAD ./example/example_https.o
+LOAD ./example/example_iic.o
+LOAD ./example/example_location.o
+LOAD ./example/example_memory.o
+LOAD ./example/example_mqtt.o
+LOAD ./example/example_multitask.o
+LOAD ./example/example_multitask_port.o
+LOAD ./example/example_pwm.o
+LOAD ./example/example_sms.o
+LOAD ./example/example_spi.o
+LOAD ./example/example_system.o
+LOAD ./example/example_tcp_demo.o
+LOAD ./example/example_tcpclient.o
+LOAD ./example/example_tcpserver.o
+LOAD ./example/example_time.o
+LOAD ./example/example_timer.o
+LOAD ./example/example_transpass.o
+LOAD ./example/example_udpclient.o
+LOAD ./example/example_udpserver.o
+LOAD ./example/example_watchdog.o
+LOAD ./example/nema_pro.o
+LOAD ./example/utility.o
+LOAD ./custom/fota/src/fota_ftp.o
+LOAD ./custom/fota/src/fota_http.o
+LOAD ./custom/fota/src/fota_http_code.o
+LOAD ./custom/fota/src/fota_main.o
+LOAD ./custom/config/custom_sys_cfg.o
+LOAD ./custom/config/sys_config.o
+LOAD ./custom/main.o
+LOAD D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libm.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libcs3.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+START GROUP
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a
+LOAD C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a
+END GROUP
+                0x102db040                . = 0x102db040
+
+.initdata       0x102db040       0x2c
+ *(.initdata)
+ .initdata      0x102db040       0x2c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                0x102db040                GADLENTRY
+
+text            0x102db070     0xb1e8
+ *(.text)
+ .text          0x102db070      0x5b8 ./ril/src/Ril_dtmf.o
+                0x102db16c                RIL_ToneDet_Open
+                0x102db1f0                RIL_ToneDet_Close
+                0x102db268                RIL_ToneDet_Set
+                0x102db314                RIL_ToneDet_Get
+                0x102db3d4                OnURCHandler_QToneDet
+                0x102db4c8                RIL_WDTMF_Send
+                0x102db584                OnURCHandler_QWDTMF
+ .text          0x102db628       0xfc ./ril/src/ril_atResponse.o
+                0x102db628                Ql_RIL_AT_GetErrCode
+                0x102db638                Ql_RIL_AT_SetErrCode
+                0x102db64c                Default_atRsp_callback
+ .text          0x102db724     0x2e60 ./ril/src/ril_bluetooth.o
+                0x102dc224                BT_DevMngmt_GetDeviceId
+                0x102dc25c                BT_DevMngmt_GetPairedId
+                0x102dc294                BT_DevMngmt_GetConnId
+                0x102dc2cc                BT_DevMngmt_GetProfileId
+                0x102dc304                BT_DevMngmt_GetDevName
+                0x102dc33c                BT_DevMngmt_GetDevAddr
+                0x102dc374                RIL_BT_Switch
+                0x102dc3fc                RIL_BT_GetPwrState
+                0x102dc46c                RIL_BT_SetName
+                0x102dc508                RIL_BT_GetName
+                0x102dc644                RIL_BT_GetLocalAddr
+                0x102dc73c                RIL_BT_SetVisble
+                0x102dc7f0                OnURCHandler_BTVisible
+                0x102dc8e4                RIL_BT_GetVisble
+                0x102dc958                OnURCHandler_BTScan
+                0x102dcc0c                RIL_BT_GetDevListInfo
+                0x102dcc84                RIL_BT_GetDevListPointer
+                0x102dcc90                RIL_BT_StopScan
+                0x102dcce8                RIL_BT_QueryState
+                0x102dcd4c                RIL_BT_StartScan
+                0x102dce0c                RIL_BT_Initialize
+                0x102dce40                RIL_BT_PairReq
+                0x102dced8                OnURCHandler_BTPair
+                0x102dd0e4                RIL_BT_PairConfirm
+                0x102dd198                OnURCHandler_BTPairCnf
+                0x102dd3c4                RIL_BT_Unpair
+                0x102dd4f0                RIL_BT_GetSupportedProfile
+                0x102dd61c                RIL_BT_ConnReq
+                0x102dd6d4                OnURCHandler_BTConn
+                0x102dd94c                RIL_BT_SPP_DirectConn
+                0x102dd9d4                RIL_BT_ConnAccept
+                0x102dda5c                OnURCHandler_BTConnCnf
+                0x102ddd90                RIL_BT_Disconnect
+                0x102dde30                OnURCHandler_BTDisconn
+                0x102de03c                RIL_BT_SPP_Send
+                0x102de108                RIL_BT_SPP_Read
+                0x102de1d8                OnURCHandler_BTIndication
+ .text          0x102de584       0x20 ./ril/src/ril_custom.o
+                0x102de584                Ql_RIL_RcvDataFrmCore
+ .text          0x102de5a4      0xabc ./ril/src/ril_gps.o
+                0x102dea60                RIL_GPS_Open
+                0x102deb04                RIL_GPS_Read
+                0x102dec3c                RIL_GPS_Read_TimeSync_Status
+                0x102dece4                OnURCHandler_GPSCMD
+                0x102ded50                RIL_GPS_CMD_Send
+                0x102dee04                RIL_GPS_EPO_Enable
+                0x102deeb8                RIL_GPS_EPO_Aid
+                0x102def58                RIL_GPS_EPO_Config_APN
+ .text          0x102df060       0x10 ./ril/src/ril_init.o
+                0x102df060                RIL_GetInitCmdCnt
+                0x102df068                RIL_GetLimitedCmdCnt
+ .text          0x102df070      0x29c ./ril/src/ril_location.o
+                0x102df070                RIL_GetLocation
+                0x102df144                RIL_GetLocationByCell
+                0x102df234                OnURCHandler_QCELLLocation
+ .text          0x102df30c      0xb70 ./ril/src/ril_network.o
+                0x102df6ec                RIL_NW_GetGSMState
+                0x102df760                RIL_NW_GetGPRSState
+                0x102df7dc                RIL_NW_GetSignalQuality
+                0x102df86c                RIL_NW_SetGPRSContext
+                0x102df8e8                RIL_NW_SetAPN
+                0x102df9f8                RIL_NW_GetIpStatusByName
+                0x102dfca8                RIL_NW_GetIPStatus
+                0x102dfcf0                RIL_NW_OpenPDPContext
+                0x102dfda0                RIL_NW_ClosePDPContext
+                0x102dfe08                RIL_NW_GetOperator
+ .text          0x102dfe7c      0x10c ./ril/src/ril_ntp.o
+                0x102dfe7c                OnURCHandler_NTPCMD
+                0x102dfee8                RIL_NTP_START
+ .text          0x102dff88      0x5a4 ./ril/src/ril_sim.o
+                0x102e00e8                RIL_SIM_GetSimStateByName
+                0x102e03d0                RIL_SIM_GetSimState
+                0x102e0444                RIL_SIM_GetIMSI
+                0x102e04b8                RIL_SIM_GetCCID
+ .text          0x102e052c      0x90c ./ril/src/ril_system.o
+                0x102e09ac                RIL_QuerySysInitStatus
+                0x102e09e8                RIL_GetPowerSupply
+                0x102e0a40                Ql_SecureData_Store
+                0x102e0ba4                Ql_SecureData_Read
+                0x102e0dc8                RIL_GetIMEI
+ .text          0x102e0e38      0xc98 ./ril/src/ril_urc.o
+                0x102e1980                OnURCHandler
+                0x102e1a50                Ql_RIL_IsURCStr
+ .text          0x102e1ad0      0x4a0 ./ril/src/ril_util.o
+                0x102e1ad0                Ql_StrPrefixMatch
+                0x102e1b20                Ql_StrToUpper
+                0x102e1b7c                Ql_HexStrToInt
+                0x102e1c10                Ql_RIL_FindString
+                0x102e1c9c                Ql_RIL_FindLine
+                0x102e1f1c                Ql_GenHash
+ .text          0x102e1f70     0x3474 ./example/example_mqtt.o
+                0x102e2448                QSDK_Get_Str
+                0x102e26c8                proc_main_task
+                0x102e2fac                RIL_MQTT_QMTCFG_Ali
+                0x102e3088                RIL_MQTT_QMTOPEN
+                0x102e3240                RIL_MQTT_QMTCONN
+                0x102e342c                RIL_MQTT_QMTSUB
+                0x102e3600                RIL_MQTT_QMTPUB
+                0x102e3798                RIL_MQTT_QMTCLOSE
+                0x102e3874                RIL_MQTT_QMTUNS
+                0x102e3a40                GPSTEST
+ .text          0x102e53e4       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ocpu_init.o)
+                0x102e53e4                _OCPU_InitUserMem
+ .text          0x102e5430      0x10c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+                0x102e5430                memcpy
+ .text          0x102e553c       0x9c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+                0x102e553c                memset
+ .text          0x102e55d8      0x11c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+                0x102e55d8                __aeabi_uidiv
+                0x102e55d8                __udivsi3
+                0x102e56d4                __aeabi_uidivmod
+ .text          0x102e56f4        0x4 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+                0x102e56f4                __aeabi_idiv0
+                0x102e56f4                __aeabi_ldiv0
+ .text          0x102e56f8      0x41c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+                0x102e56f8                __aeabi_drsub
+                0x102e5700                __aeabi_dsub
+                0x102e5700                __subdf3
+                0x102e5704                __aeabi_dadd
+                0x102e5704                __adddf3
+                0x102e5a14                __floatunsidf
+                0x102e5a14                __aeabi_ui2d
+                0x102e5a38                __floatsidf
+                0x102e5a38                __aeabi_i2d
+                0x102e5a60                __aeabi_f2d
+                0x102e5a60                __extendsfdf2
+                0x102e5aa0                __floatundidf
+                0x102e5aa0                __aeabi_ul2d
+                0x102e5ab4                __floatdidf
+                0x102e5ab4                __aeabi_l2d
+ .text          0x102e5b14      0x49c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+                0x102e5b14                __aeabi_dmul
+                0x102e5b14                __muldf3
+                0x102e5da4                __divdf3
+                0x102e5da4                __aeabi_ddiv
+ .text          0x102e5fb0      0x144 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpdf2.o)
+                0x102e5fb0                __gtdf2
+                0x102e5fb0                __gedf2
+                0x102e5fb8                __ltdf2
+                0x102e5fb8                __ledf2
+                0x102e5fc0                __nedf2
+                0x102e5fc0                __eqdf2
+                0x102e5fc0                __cmpdf2
+                0x102e6048                __aeabi_cdrcmple
+                0x102e6064                __aeabi_cdcmpeq
+                0x102e6064                __aeabi_cdcmple
+                0x102e607c                __aeabi_dcmpeq
+                0x102e6094                __aeabi_dcmplt
+                0x102e60ac                __aeabi_dcmple
+                0x102e60c4                __aeabi_dcmpge
+                0x102e60dc                __aeabi_dcmpgt
+ .text          0x102e60f4       0x5c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+                0x102e60f4                __aeabi_d2iz
+                0x102e60f4                __fixdfsi
+ .text          0x102e6150       0x54 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+                0x102e6150                __aeabi_d2uiz
+                0x102e6150                __fixunsdfsi
+ .text          0x102e61a4       0xa0 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+                0x102e61a4                __truncdfsf2
+                0x102e61a4                __aeabi_d2f
+ *fill*         0x102e6244        0x4 
+ .text.__stub   0x102e6248        0xc linker stubs
+
+.glue_7         0x102e6258        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x102e6258        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x102e6258        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x102e6258        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x102e6258        0x0
+ .iplt          0x00000000        0x0 ./ril/src/Ril_dtmf.o
+
+.text.Ql_FS_Open
+                0x102e6258       0x68
+ .text.Ql_FS_Open
+                0x102e6258       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6258                Ql_FS_Open
+
+.text.Ql_FS_Read
+                0x102e62c0       0x78
+ .text.Ql_FS_Read
+                0x102e62c0       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e62c0                Ql_FS_Read
+
+.text.Ql_FS_Write
+                0x102e6338       0x78
+ .text.Ql_FS_Write
+                0x102e6338       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6338                Ql_FS_Write
+
+.text.Ql_FS_Seek
+                0x102e63b0       0x70
+ .text.Ql_FS_Seek
+                0x102e63b0       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e63b0                Ql_FS_Seek
+
+.text.Ql_FS_GetFilePosition
+                0x102e6420       0x60
+ .text.Ql_FS_GetFilePosition
+                0x102e6420       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6420                Ql_FS_GetFilePosition
+
+.text.Ql_FS_Flush
+                0x102e6480       0x54
+ .text.Ql_FS_Flush
+                0x102e6480       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6480                Ql_FS_Flush
+
+.text.Ql_FS_Close
+                0x102e64d4       0x54
+ .text.Ql_FS_Close
+                0x102e64d4       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e64d4                Ql_FS_Close
+
+.text.Ql_FS_Delete
+                0x102e6528       0x60
+ .text.Ql_FS_Delete
+                0x102e6528       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6528                Ql_FS_Delete
+
+.text.Ql_FS_Check
+                0x102e6588       0x60
+ .text.Ql_FS_Check
+                0x102e6588       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e6588                Ql_FS_Check
+
+.text.Ql_FS_GetTotalSpace
+                0x102e65e8       0x74
+ .text.Ql_FS_GetTotalSpace
+                0x102e65e8       0x74 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+                0x102e65e8                Ql_FS_GetTotalSpace
+
+.text.Ql_MEM_Alloc
+                0x102e665c       0x78
+ .text.Ql_MEM_Alloc
+                0x102e665c       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+                0x102e665c                Ql_MEM_Alloc
+
+.text.Ql_MEM_Free
+                0x102e66d4       0x74
+ .text.Ql_MEM_Free
+                0x102e66d4       0x74 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+                0x102e66d4                Ql_MEM_Free
+
+.text.ql_InitVFunc
+                0x102e6748      0x104
+ .text.ql_InitVFunc
+                0x102e6748      0x104 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e6748                ql_InitVFunc
+
+.text.ocpu_main
+                0x102e684c       0xf0
+ .text.ocpu_main
+                0x102e684c       0xf0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                0x102e684c                ocpu_main
+
+.text.proc_reserved2
+                0x102e693c       0x70
+ .text.proc_reserved2
+                0x102e693c       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+                0x102e693c                proc_reserved2
+
+.text.ril_StopATTimer
+                0x102e69ac       0x34
+ .text.ril_StopATTimer
+                0x102e69ac       0x34 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.Callback_OnATTimer
+                0x102e69e0       0x4c
+ .text.Callback_OnATTimer
+                0x102e69e0       0x4c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.CallBack_SerialPort_Hdlr
+                0x102e6a2c      0x384
+ .text.CallBack_SerialPort_Hdlr
+                0x102e6a2c      0x384 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+
+.text.proc_reserved1
+                0x102e6db0      0x200
+ .text.proc_reserved1
+                0x102e6db0      0x200 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e6db0                proc_reserved1
+
+.text.Ql_RIL_Initialize
+                0x102e6fb0       0xd4
+ .text.Ql_RIL_Initialize
+                0x102e6fb0       0xd4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e6fb0                Ql_RIL_Initialize
+
+.text.Ql_RIL_SendATCmd
+                0x102e7084      0x260
+ .text.Ql_RIL_SendATCmd
+                0x102e7084      0x260 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e7084                Ql_RIL_SendATCmd
+
+.text.Ql_RIL_WriteDataToCore
+                0x102e72e4       0x24
+ .text.Ql_RIL_WriteDataToCore
+                0x102e72e4       0x24 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                0x102e72e4                Ql_RIL_WriteDataToCore
+
+.text.Ql_atof   0x102e7308       0x98
+ .text.Ql_atof  0x102e7308       0x98 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7308                Ql_atof
+
+.text.Ql_strcpy
+                0x102e73a0       0xa0
+ .text.Ql_strcpy
+                0x102e73a0       0xa0 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e73a0                Ql_strcpy
+
+.text.Ql_strncpy
+                0x102e7440       0x88
+ .text.Ql_strncpy
+                0x102e7440       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7440                Ql_strncpy
+
+.text.Ql_strcat
+                0x102e74c8       0x80
+ .text.Ql_strcat
+                0x102e74c8       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e74c8                Ql_strcat
+
+.text.Ql_strncat
+                0x102e7548       0x88
+ .text.Ql_strncat
+                0x102e7548       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7548                Ql_strncat
+
+.text.Ql_strlen
+                0x102e75d0       0x78
+ .text.Ql_strlen
+                0x102e75d0       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e75d0                Ql_strlen
+
+.text.Ql_strcmp
+                0x102e7648       0x68
+ .text.Ql_strcmp
+                0x102e7648       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7648                Ql_strcmp
+
+.text.Ql_strncmp
+                0x102e76b0       0x70
+ .text.Ql_strncmp
+                0x102e76b0       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e76b0                Ql_strncmp
+
+.text.Ql_memset
+                0x102e7720       0x88
+ .text.Ql_memset
+                0x102e7720       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7720                Ql_memset
+
+.text.Ql_memcpy
+                0x102e77a8       0x88
+ .text.Ql_memcpy
+                0x102e77a8       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e77a8                Ql_memcpy
+
+.text.Ql_strstr
+                0x102e7830       0x80
+ .text.Ql_strstr
+                0x102e7830       0x80 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e7830                Ql_strstr
+
+.text.Ql_toupper
+                0x102e78b0        0x8
+ .text.Ql_toupper
+                0x102e78b0        0x8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e78b0                Ql_toupper
+
+.text.Ql_atoi   0x102e78b8       0x84
+ .text.Ql_atoi  0x102e78b8       0x84 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+                0x102e78b8                Ql_atoi
+
+.text.Ql_Sleep  0x102e793c       0x74
+ .text.Ql_Sleep
+                0x102e793c       0x74 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+                0x102e793c                Ql_Sleep
+
+.text.Ql_Reset  0x102e79b0       0x74
+ .text.Ql_Reset
+                0x102e79b0       0x74 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+                0x102e79b0                Ql_Reset
+
+.text.Ql_GetSDKVer
+                0x102e7a24       0x64
+ .text.Ql_GetSDKVer
+                0x102e7a24       0x64 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+                0x102e7a24                Ql_GetSDKVer
+
+.text.Ql_OS_GetMessage
+                0x102e7a88       0x60
+ .text.Ql_OS_GetMessage
+                0x102e7a88       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7a88                Ql_OS_GetMessage
+
+.text.Ql_OS_SendMessage
+                0x102e7ae8       0x78
+ .text.Ql_OS_SendMessage
+                0x102e7ae8       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7ae8                Ql_OS_SendMessage
+
+.text.Ql_OS_CreateMutex
+                0x102e7b60       0x54
+ .text.Ql_OS_CreateMutex
+                0x102e7b60       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7b60                Ql_OS_CreateMutex
+
+.text.Ql_OS_TakeMutex
+                0x102e7bb4       0x54
+ .text.Ql_OS_TakeMutex
+                0x102e7bb4       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7bb4                Ql_OS_TakeMutex
+
+.text.Ql_OS_GiveMutex
+                0x102e7c08       0x54
+ .text.Ql_OS_GiveMutex
+                0x102e7c08       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7c08                Ql_OS_GiveMutex
+
+.text.Ql_OS_CreateEvent
+                0x102e7c5c       0x54
+ .text.Ql_OS_CreateEvent
+                0x102e7c5c       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7c5c                Ql_OS_CreateEvent
+
+.text.Ql_OS_WaitEvent
+                0x102e7cb0       0x68
+ .text.Ql_OS_WaitEvent
+                0x102e7cb0       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7cb0                Ql_OS_WaitEvent
+
+.text.Ql_OS_SetEvent
+                0x102e7d18       0x68
+ .text.Ql_OS_SetEvent
+                0x102e7d18       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+                0x102e7d18                Ql_OS_SetEvent
+
+.text.Ql_GetLocalTime
+                0x102e7d80       0x54
+ .text.Ql_GetLocalTime
+                0x102e7d80       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+                0x102e7d80                Ql_GetLocalTime
+
+.text.Ql_Mktime
+                0x102e7dd4       0x70
+ .text.Ql_Mktime
+                0x102e7dd4       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+                0x102e7dd4                Ql_Mktime
+
+.text.Ql_Timer_Register
+                0x102e7e44       0x70
+ .text.Ql_Timer_Register
+                0x102e7e44       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+                0x102e7e44                Ql_Timer_Register
+
+.text.Ql_Timer_Start
+                0x102e7eb4       0x70
+ .text.Ql_Timer_Start
+                0x102e7eb4       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+                0x102e7eb4                Ql_Timer_Start
+
+.text.Ql_Timer_Stop
+                0x102e7f24       0x60
+ .text.Ql_Timer_Stop
+                0x102e7f24       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+                0x102e7f24                Ql_Timer_Stop
+
+.text.Ql_UART_Register
+                0x102e7f84       0x70
+ .text.Ql_UART_Register
+                0x102e7f84       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e7f84                Ql_UART_Register
+
+.text.Ql_UART_Open
+                0x102e7ff4       0x70
+ .text.Ql_UART_Open
+                0x102e7ff4       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e7ff4                Ql_UART_Open
+
+.text.Ql_UART_Write
+                0x102e8064       0x70
+ .text.Ql_UART_Write
+                0x102e8064       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e8064                Ql_UART_Write
+
+.text.Ql_UART_Read
+                0x102e80d4       0x70
+ .text.Ql_UART_Read
+                0x102e80d4       0x70 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e80d4                Ql_UART_Read
+
+.text.Ql_UART_ClrRxBuffer
+                0x102e8144       0x54
+ .text.Ql_UART_ClrRxBuffer
+                0x102e8144       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e8144                Ql_UART_ClrRxBuffer
+
+.text.Ql_UART_ClrTxBuffer
+                0x102e8198       0x54
+ .text.Ql_UART_ClrTxBuffer
+                0x102e8198       0x54 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e8198                Ql_UART_ClrTxBuffer
+
+.text.Ql_UART_GetPinStatus
+                0x102e81ec       0x68
+ .text.Ql_UART_GetPinStatus
+                0x102e81ec       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e81ec                Ql_UART_GetPinStatus
+
+.text.Ql_UART_SendEscap
+                0x102e8254       0x60
+ .text.Ql_UART_SendEscap
+                0x102e8254       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+                0x102e8254                Ql_UART_SendEscap
+
+.text.OCPU_WTD_ChangeGPIOLevel
+                0x102e82b4       0x38
+ .text.OCPU_WTD_ChangeGPIOLevel
+                0x102e82b4       0x38 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e82b4                OCPU_WTD_ChangeGPIOLevel
+
+.text.Ql_WTD_Calback
+                0x102e82ec       0xc4
+ .text.Ql_WTD_Calback
+                0x102e82ec       0xc4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+
+.text.Ql_WTD_Init
+                0x102e83b0      0x100
+ .text.Ql_WTD_Init
+                0x102e83b0      0x100 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e83b0                Ql_WTD_Init
+
+.text.Ql_WTD_Start
+                0x102e84b0       0xb4
+ .text.Ql_WTD_Start
+                0x102e84b0       0xb4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e84b0                Ql_WTD_Start
+
+.text.Ql_WTD_Feed
+                0x102e8564       0x5c
+ .text.Ql_WTD_Feed
+                0x102e8564       0x5c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e8564                Ql_WTD_Feed
+
+.text.Ql_WTD_Stop
+                0x102e85c0       0x88
+ .text.Ql_WTD_Stop
+                0x102e85c0       0x88 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+                0x102e85c0                Ql_WTD_Stop
+
+.text.Ql_GPIO_Init
+                0x102e8648       0x78
+ .text.Ql_GPIO_Init
+                0x102e8648       0x78 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+                0x102e8648                Ql_GPIO_Init
+
+.text.Ql_GPIO_SetLevel
+                0x102e86c0       0x68
+ .text.Ql_GPIO_SetLevel
+                0x102e86c0       0x68 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+                0x102e86c0                Ql_GPIO_SetLevel
+
+.rodata         0x102e8728      0xc50
+ *(.rodata)
+ .rodata        0x102e8728       0x1c ./ril/src/Ril_dtmf.o
+ .rodata        0x102e8744      0x11c ./ril/src/ril_bluetooth.o
+ .rodata        0x102e8860       0x44 ./ril/src/ril_gps.o
+ .rodata        0x102e88a4       0x10 ./ril/src/ril_location.o
+ .rodata        0x102e88b4       0x68 ./ril/src/ril_network.o
+ .rodata        0x102e891c        0xc ./ril/src/ril_ntp.o
+ .rodata        0x102e8928       0x48 ./ril/src/ril_sim.o
+ .rodata        0x102e8970        0x8 ./ril/src/ril_system.o
+ .rodata        0x102e8978      0x930 ./ril/src/ril_urc.o
+ .rodata        0x102e92a8       0x4c ./custom/config/custom_sys_cfg.o
+                0x102e92ac                SystemCfg
+ .rodata        0x102e92f4       0x54 ./custom/config/sys_config.o
+                0x102e92f4                GpioConfigTbl
+                0x102e92f8                TaskConfig
+ .rodata        0x102e9348       0x16 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata        0x102e935e        0x4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .rodata        0x102e9362       0x16 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+
+.rodata.str1.4  0x102e9378     0x1748
+ .rodata.str1.4
+                0x102e9378       0xd7 ./ril/src/Ril_dtmf.o
+                                 0xdc (size before relaxing)
+ *fill*         0x102e944f        0x1 
+ .rodata.str1.4
+                0x102e9450       0x19 ./ril/src/ril_atResponse.o
+                                 0x34 (size before relaxing)
+ *fill*         0x102e9469        0x3 
+ .rodata.str1.4
+                0x102e946c      0x518 ./ril/src/ril_bluetooth.o
+                                0x544 (size before relaxing)
+ .rodata.str1.4
+                0x102e9984      0x10f ./ril/src/ril_gps.o
+                                0x130 (size before relaxing)
+ *fill*         0x102e9a93        0x1 
+ .rodata.str1.4
+                0x102e9a94       0x57 ./ril/src/ril_init.o
+                                 0x58 (size before relaxing)
+ *fill*         0x102e9aeb        0x1 
+ .rodata.str1.4
+                0x102e9aec       0x49 ./ril/src/ril_location.o
+                                 0x6c (size before relaxing)
+ *fill*         0x102e9b35        0x3 
+ .rodata.str1.4
+                0x102e9b38      0x11c ./ril/src/ril_network.o
+                                0x13c (size before relaxing)
+ .rodata.str1.4
+                0x102e9c54       0x12 ./ril/src/ril_ntp.o
+                                 0x14 (size before relaxing)
+ *fill*         0x102e9c66        0x2 
+ .rodata.str1.4
+                0x102e9c68       0xa4 ./ril/src/ril_sim.o
+                                 0xc8 (size before relaxing)
+ .rodata.str1.4
+                0x102e9d0c       0x65 ./ril/src/ril_system.o
+                                 0x90 (size before relaxing)
+ *fill*         0x102e9d71        0x3 
+ .rodata.str1.4
+                0x102e9d74      0x1a8 ./ril/src/ril_urc.o
+                                0x1b4 (size before relaxing)
+ .rodata.str1.4
+                0x102e9f1c       0x1d ./ril/src/ril_util.o
+                                 0x20 (size before relaxing)
+ *fill*         0x102e9f39        0x3 
+ .rodata.str1.4
+                0x102e9f3c      0xb84 ./example/example_mqtt.o
+                                0xbc4 (size before relaxing)
+
+.rodata.str1.1  0x102eaac0      0x654
+ .rodata.str1.1
+                0x102eaac0      0x15c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .rodata.str1.1
+                0x102eac1c       0x19 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .rodata.str1.1
+                0x102eac35       0x56 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .rodata.str1.1
+                0x102eac8b       0x1e D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                                 0x25 (size before relaxing)
+ .rodata.str1.1
+                0x102eaca9       0xa1 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .rodata.str1.1
+                0x102ead4a       0x3d D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .rodata.str1.1
+                0x102ead87      0x140 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .rodata.str1.1
+                0x102eaec7       0x41 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .rodata.str1.1
+                0x102eaf08       0x45 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .rodata.str1.1
+                0x102eaf4d      0x108 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .rodata.str1.1
+                0x102eb055       0x25 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .rodata.str1.1
+                0x102eb07a       0x9a D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+
+.rel.dyn        0x102eb114        0x0
+ .rel.iplt      0x00000000        0x0 ./ril/src/Ril_dtmf.o
+
+.data           0xf03d2000     0x28f0 load address 0x102eb118
+                0x102eb118                PROVIDE (__data_load, LOADADDR (.data))
+                0xf03d2000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0xf03d2000        0x1 ./ril/src/ril_bluetooth.o
+ *fill*         0xf03d2001        0x3 
+ .data          0xf03d2004       0x20 ./ril/src/ril_init.o
+                0xf03d2004                g_LimitedCmds
+                0xf03d200c                g_InitCmds
+ *fill*         0xf03d2024        0x4 
+ .data          0xf03d2028     0x2898 ./example/example_mqtt.o
+                0xf03d2830                dataValid
+                0xf03d2838                LAT
+                0xf03d2840                LNG
+                0xf03d2848                watchdogID
+                0xf03d284c                resetInterval
+                0xf03d40b4                json
+                0xf03d40b8                latlng
+ .data          0xf03d48c0       0x18 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d48c0                api_notsup
+ .data          0xf03d48d8        0x4 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d48d8                g_ril_auxTaskId
+ .data          0xf03d48dc       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+                0xf03d48f0                . = ALIGN (0x8)
+ *fill*         0xf03d48ec        0x4 
+                0xf03d48f0                PROVIDE (_edata, .)
+
+.igot.plt       0xf03d48f0        0x0 load address 0x102eda08
+ .igot.plt      0x00000000        0x0 ./ril/src/Ril_dtmf.o
+
+.bss            0xf03d48f0     0x3340 load address 0x102eda08
+                0xf03d48f0                PROVIDE (__bss_start__, .)
+ *(.bss)
+ .bss           0xf03d48f0       0x10 ./ril/src/Ril_dtmf.o
+ .bss           0xf03d4900        0x4 ./ril/src/ril_atResponse.o
+ .bss           0xf03d4904        0x4 ./ril/src/ril_audio.o
+                0xf03d4904                cb_aud_play
+ .bss           0xf03d4908       0x98 ./ril/src/ril_bluetooth.o
+ .bss           0xf03d49a0        0x4 ./ril/src/ril_custom.o
+                0xf03d49a0                cb_rcvCoreData
+ .bss           0xf03d49a4        0x4 ./ril/src/ril_gps.o
+ .bss           0xf03d49a8       0x78 ./ril/src/ril_http.o
+                0xf03d4a10                http_url_addr
+                0xf03d4a14                http_url_addr_len
+                0xf03d4a16                http_post_msg_len
+                0xf03d4a18                http_post_msg
+                0xf03d4a1c                callback_http_dwnld
+ .bss           0xf03d4a20        0x4 ./ril/src/ril_location.o
+ .bss           0xf03d4a24        0x4 ./ril/src/ril_ntp.o
+ .bss           0xf03d4a28        0x1 ./ril/src/ril_system.o
+                0xf03d4a28                IsDataReadSuccess
+ *fill*         0xf03d4a29        0x3 
+ .bss           0xf03d4a2c        0x8 ./ril/src/ril_urc.o
+                0xf03d4a2c                FtpGet_IND_CB
+                0xf03d4a30                FtpPut_IND_CB
+ .bss           0xf03d4a34     0x1c80 ./example/example_mqtt.o
+                0xf03d6238                buf
+                0xf03d6650                tail
+                0xf03d66a4                jsonlength
+                0xf03d66a8                head
+                0xf03d66ac                latlngbuf
+                0xf03d66b0                dataPostBuf
+ .bss           0xf03d66b4       0x60 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .bss           0xf03d6714        0x8 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .bss           0xf03d671c       0x24 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+                0xf03d671c                m_StartPlayAudioStream
+                0xf03d6720                m_get_api_ptr
+                0xf03d6724                m_StopPlayAudioStream
+                0xf03d6728                m_GetRelativeTime_Counter
+                0xf03d672c                m_SecondToTicks
+                0xf03d6730                m_MillisecondToTicks
+                0xf03d6734                m_CalendarTime2LocalTime
+                0xf03d6738                m_osChangeTaskPriority
+                0xf03d673c                m_create_api_hash
+ .bss           0xf03d6740       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d6744                runinfo
+ .bss           0xf03d6750        0x1 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+                0xf03d6750                g_ril_auxTaskReady
+ *fill*         0xf03d6751        0x3 
+ .bss           0xf03d6754      0xc34 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .bss           0xf03d7388       0x40 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .bss           0xf03d73c8       0x14 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .bss           0xf03d73dc       0x40 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .bss           0xf03d741c       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .bss           0xf03d742c       0x10 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .bss           0xf03d743c       0x3c D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .bss           0xf03d7478       0x18 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .bss           0xf03d7490       0x20 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+                0xf03d7490                m_GPIO_Init
+                0xf03d7494                m_GPIO_SetLevel
+                0xf03d7498                m_GPIO_GetLevel
+                0xf03d749c                m_GPIO_SetDirection
+                0xf03d74a0                m_GPIO_GetDirection
+                0xf03d74a4                m_GPIO_SetPullSelection
+                0xf03d74a8                m_GPIO_GetPullSelection
+                0xf03d74ac                m_GPIO_Uninit
+                0xf03d74b0                . = ALIGN (0x8)
+                0xf03d74b0                PROVIDE (__bss_end__, .)
+ COMMON         0xf03d74b0        0x4 ./ril/src/ril_system.o
+                0xf03d74b0                SecureDataStringLen
+ COMMON         0xf03d74b4      0x124 ./ril/src/ril_telephony.o
+                0xf03d74b4                g_comingCall
+ COMMON         0xf03d75d8      0x644 ./example/example_mqtt.o
+                0xf03d75d8                latlngString
+                0xf03d77d8                wtdID
+                0xf03d77e0                SPEED
+                0xf03d77e8                time
+                0xf03d7804                rssi
+                0xf03d7808                NSV
+                0xf03d7810                totalSeconds
+                0xf03d7818                ber
+                0xf03d781c                jsonString
+ COMMON         0xf03d7c1c       0x14 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+                0xf03d7c1c                Ql_snprintf
+                0xf03d7c20                Ql_sprintf
+                0xf03d7c24                Ql_Debug_Trace
+                0xf03d7c28                Ql_vsprintf
+                0xf03d7c2c                Ql_sscanf
+OUTPUT(APPGS3MDM32A01.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x12442
+ .debug_info    0x00000000      0x99d ./ril/src/Ril_dtmf.o
+ .debug_info    0x0000099d      0x223 ./ril/src/ril_atResponse.o
+ .debug_info    0x00000bc0     0x153a ./ril/src/ril_audio.o
+ .debug_info    0x000020fa     0x3eb3 ./ril/src/ril_bluetooth.o
+ .debug_info    0x00005fad      0x129 ./ril/src/ril_custom.o
+ .debug_info    0x000060d6     0x125e ./ril/src/ril_gps.o
+ .debug_info    0x00007334      0x92b ./ril/src/ril_http.o
+ .debug_info    0x00007c5f       0xfc ./ril/src/ril_init.o
+ .debug_info    0x00007d5b      0x5aa ./ril/src/ril_location.o
+ .debug_info    0x00008305     0x12b0 ./ril/src/ril_network.o
+ .debug_info    0x000095b5      0x290 ./ril/src/ril_ntp.o
+ .debug_info    0x00009845      0x8f6 ./ril/src/ril_sim.o
+ .debug_info    0x0000a13b     0x1068 ./ril/src/ril_system.o
+ .debug_info    0x0000b1a3      0x5b7 ./ril/src/ril_telephony.o
+ .debug_info    0x0000b75a     0x150c ./ril/src/ril_urc.o
+ .debug_info    0x0000cc66      0x58a ./ril/src/ril_util.o
+ .debug_info    0x0000d1f0     0x4c92 ./example/example_mqtt.o
+ .debug_info    0x00011e82      0x31c ./custom/config/custom_sys_cfg.o
+ .debug_info    0x0001219e      0x2a4 ./custom/config/sys_config.o
+
+.debug_abbrev   0x00000000     0x2608
+ .debug_abbrev  0x00000000      0x239 ./ril/src/Ril_dtmf.o
+ .debug_abbrev  0x00000239      0x13c ./ril/src/ril_atResponse.o
+ .debug_abbrev  0x00000375      0x2bd ./ril/src/ril_audio.o
+ .debug_abbrev  0x00000632      0x39f ./ril/src/ril_bluetooth.o
+ .debug_abbrev  0x000009d1       0xb6 ./ril/src/ril_custom.o
+ .debug_abbrev  0x00000a87      0x292 ./ril/src/ril_gps.o
+ .debug_abbrev  0x00000d19      0x171 ./ril/src/ril_http.o
+ .debug_abbrev  0x00000e8a       0x87 ./ril/src/ril_init.o
+ .debug_abbrev  0x00000f11      0x18b ./ril/src/ril_location.o
+ .debug_abbrev  0x0000109c      0x313 ./ril/src/ril_network.o
+ .debug_abbrev  0x000013af      0x13a ./ril/src/ril_ntp.o
+ .debug_abbrev  0x000014e9      0x286 ./ril/src/ril_sim.o
+ .debug_abbrev  0x0000176f      0x33d ./ril/src/ril_system.o
+ .debug_abbrev  0x00001aac      0x1cf ./ril/src/ril_telephony.o
+ .debug_abbrev  0x00001c7b      0x314 ./ril/src/ril_urc.o
+ .debug_abbrev  0x00001f8f      0x15e ./ril/src/ril_util.o
+ .debug_abbrev  0x000020ed      0x37a ./example/example_mqtt.o
+ .debug_abbrev  0x00002467       0xdc ./custom/config/custom_sys_cfg.o
+ .debug_abbrev  0x00002543       0xc5 ./custom/config/sys_config.o
+
+.debug_loc      0x00000000     0x9214
+ .debug_loc     0x00000000      0x5e6 ./ril/src/Ril_dtmf.o
+ .debug_loc     0x000005e6       0x9f ./ril/src/ril_atResponse.o
+ .debug_loc     0x00000685      0xb30 ./ril/src/ril_audio.o
+ .debug_loc     0x000011b5     0x23cf ./ril/src/ril_bluetooth.o
+ .debug_loc     0x00003584       0x83 ./ril/src/ril_custom.o
+ .debug_loc     0x00003607      0x84e ./ril/src/ril_gps.o
+ .debug_loc     0x00003e55      0x50c ./ril/src/ril_http.o
+ .debug_loc     0x00004361      0x1a4 ./ril/src/ril_location.o
+ .debug_loc     0x00004505      0xbcc ./ril/src/ril_network.o
+ .debug_loc     0x000050d1      0x160 ./ril/src/ril_ntp.o
+ .debug_loc     0x00005231      0x51c ./ril/src/ril_sim.o
+ .debug_loc     0x0000574d      0xabf ./ril/src/ril_system.o
+ .debug_loc     0x0000620c      0x39d ./ril/src/ril_telephony.o
+ .debug_loc     0x000065a9      0xcc4 ./ril/src/ril_urc.o
+ .debug_loc     0x0000726d      0x5e1 ./ril/src/ril_util.o
+ .debug_loc     0x0000784e     0x19c6 ./example/example_mqtt.o
+
+.debug_aranges  0x00000000      0x258
+ .debug_aranges
+                0x00000000       0x20 ./ril/src/Ril_dtmf.o
+ .debug_aranges
+                0x00000020       0x20 ./ril/src/ril_atResponse.o
+ .debug_aranges
+                0x00000040       0x20 ./ril/src/ril_audio.o
+ .debug_aranges
+                0x00000060       0x20 ./ril/src/ril_bluetooth.o
+ .debug_aranges
+                0x00000080       0x20 ./ril/src/ril_custom.o
+ .debug_aranges
+                0x000000a0       0x20 ./ril/src/ril_gps.o
+ .debug_aranges
+                0x000000c0       0x20 ./ril/src/ril_http.o
+ .debug_aranges
+                0x000000e0       0x20 ./ril/src/ril_init.o
+ .debug_aranges
+                0x00000100       0x20 ./ril/src/ril_location.o
+ .debug_aranges
+                0x00000120       0x20 ./ril/src/ril_network.o
+ .debug_aranges
+                0x00000140       0x20 ./ril/src/ril_ntp.o
+ .debug_aranges
+                0x00000160       0x20 ./ril/src/ril_sim.o
+ .debug_aranges
+                0x00000180       0x20 ./ril/src/ril_system.o
+ .debug_aranges
+                0x000001a0       0x20 ./ril/src/ril_telephony.o
+ .debug_aranges
+                0x000001c0       0x20 ./ril/src/ril_urc.o
+ .debug_aranges
+                0x000001e0       0x20 ./ril/src/ril_util.o
+ .debug_aranges
+                0x00000200       0x20 ./example/example_mqtt.o
+ .debug_aranges
+                0x00000220       0x20 ./custom/config/custom_sys_cfg.o
+ .debug_aranges
+                0x00000240       0x18 ./custom/config/sys_config.o
+
+.debug_macro    0x00000000     0x182d
+ .debug_macro   0x00000000       0xda ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000000da      0x7f6 ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000008d0       0x1c ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000008ec       0x1e ./ril/src/Ril_dtmf.o
+ .debug_macro   0x0000090a       0x10 ./ril/src/Ril_dtmf.o
+ .debug_macro   0x0000091a       0x3a ./ril/src/Ril_dtmf.o
+ .debug_macro   0x00000954       0x4f ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000009a3       0x2b ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000009ce       0x1d ./ril/src/Ril_dtmf.o
+ .debug_macro   0x000009eb       0x2b ./ril/src/Ril_dtmf.o
+ .debug_macro   0x00000a16       0x58 ./ril/src/Ril_dtmf.o
+ .debug_macro   0x00000a6e       0x5c ./ril/src/ril_atResponse.o
+ .debug_macro   0x00000aca       0xe2 ./ril/src/ril_audio.o
+ .debug_macro   0x00000bac       0xbe ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000c6a       0x46 ./ril/src/ril_bluetooth.o
+ .debug_macro   0x00000cb0       0x52 ./ril/src/ril_custom.o
+ .debug_macro   0x00000d02       0x61 ./ril/src/ril_gps.o
+ .debug_macro   0x00000d63      0x100 ./ril/src/ril_http.o
+ .debug_macro   0x00000e63       0xa9 ./ril/src/ril_init.o
+ .debug_macro   0x00000f0c       0xda ./ril/src/ril_location.o
+ .debug_macro   0x00000fe6       0xc0 ./ril/src/ril_network.o
+ .debug_macro   0x000010a6       0x61 ./ril/src/ril_ntp.o
+ .debug_macro   0x00001107       0xbc ./ril/src/ril_sim.o
+ .debug_macro   0x000011c3       0xbc ./ril/src/ril_system.o
+ .debug_macro   0x0000127f       0x5b ./ril/src/ril_telephony.o
+ .debug_macro   0x000012da       0x10 ./ril/src/ril_telephony.o
+ .debug_macro   0x000012ea       0xf3 ./ril/src/ril_urc.o
+ .debug_macro   0x000013dd       0x4b ./ril/src/ril_util.o
+ .debug_macro   0x00001428      0x1b3 ./example/example_mqtt.o
+ .debug_macro   0x000015db       0x1c ./example/example_mqtt.o
+ .debug_macro   0x000015f7       0x10 ./example/example_mqtt.o
+ .debug_macro   0x00001607       0x4c ./example/example_mqtt.o
+ .debug_macro   0x00001653       0x59 ./custom/config/custom_sys_cfg.o
+ .debug_macro   0x000016ac       0xed ./custom/config/sys_config.o
+ .debug_macro   0x00001799       0x2b ./custom/config/sys_config.o
+ .debug_macro   0x000017c4       0x2b ./custom/config/sys_config.o
+ .debug_macro   0x000017ef       0x3e ./custom/config/sys_config.o
+
+.debug_line     0x00000000     0x3903
+ .debug_line    0x00000000      0x2ae ./ril/src/Ril_dtmf.o
+ .debug_line    0x000002ae      0x1c2 ./ril/src/ril_atResponse.o
+ .debug_line    0x00000470      0x338 ./ril/src/ril_audio.o
+ .debug_line    0x000007a8      0x839 ./ril/src/ril_bluetooth.o
+ .debug_line    0x00000fe1      0x193 ./ril/src/ril_custom.o
+ .debug_line    0x00001174      0x285 ./ril/src/ril_gps.o
+ .debug_line    0x000013f9      0x2f0 ./ril/src/ril_http.o
+ .debug_line    0x000016e9      0x1f0 ./ril/src/ril_init.o
+ .debug_line    0x000018d9      0x259 ./ril/src/ril_location.o
+ .debug_line    0x00001b32      0x36b ./ril/src/ril_network.o
+ .debug_line    0x00001e9d      0x18d ./ril/src/ril_ntp.o
+ .debug_line    0x0000202a      0x2a9 ./ril/src/ril_sim.o
+ .debug_line    0x000022d3      0x363 ./ril/src/ril_system.o
+ .debug_line    0x00002636      0x1f2 ./ril/src/ril_telephony.o
+ .debug_line    0x00002828      0x407 ./ril/src/ril_urc.o
+ .debug_line    0x00002c2f      0x246 ./ril/src/ril_util.o
+ .debug_line    0x00002e75      0x7c7 ./example/example_mqtt.o
+ .debug_line    0x0000363c      0x129 ./custom/config/custom_sys_cfg.o
+ .debug_line    0x00003765      0x19e ./custom/config/sys_config.o
+
+.debug_str      0x00000000     0x8173
+ .debug_str     0x00000000     0x2bbc ./ril/src/Ril_dtmf.o
+                               0x2c64 (size before relaxing)
+ .debug_str     0x00002bbc       0x79 ./ril/src/ril_atResponse.o
+                               0x2638 (size before relaxing)
+ .debug_str     0x00002c35     0x13a6 ./ril/src/ril_audio.o
+                               0x3d43 (size before relaxing)
+ .debug_str     0x00003fdb      0xac1 ./ril/src/ril_bluetooth.o
+                               0x3484 (size before relaxing)
+ .debug_str     0x00004a9c       0x5b ./ril/src/ril_custom.o
+                               0x25d6 (size before relaxing)
+ .debug_str     0x00004af7      0x16a ./ril/src/ril_gps.o
+                               0x34fb (size before relaxing)
+ .debug_str     0x00004c61      0x2fc ./ril/src/ril_http.o
+                               0x2cf4 (size before relaxing)
+ .debug_str     0x00004f5d       0x56 ./ril/src/ril_init.o
+                               0x28af (size before relaxing)
+ .debug_str     0x00004fb3      0x10d ./ril/src/ril_location.o
+                               0x2a6b (size before relaxing)
+ .debug_str     0x000050c0      0x266 ./ril/src/ril_network.o
+                               0x2c55 (size before relaxing)
+ .debug_str     0x00005326       0x86 ./ril/src/ril_ntp.o
+                               0x25bf (size before relaxing)
+ .debug_str     0x000053ac      0x199 ./ril/src/ril_sim.o
+                               0x2b4d (size before relaxing)
+ .debug_str     0x00005545      0x1da ./ril/src/ril_system.o
+                               0x3997 (size before relaxing)
+ .debug_str     0x0000571f      0x17c ./ril/src/ril_telephony.o
+                               0x2757 (size before relaxing)
+ .debug_str     0x0000589b     0x149c ./ril/src/ril_urc.o
+                               0x3f0c (size before relaxing)
+ .debug_str     0x00006d37       0x8c ./ril/src/ril_util.o
+                               0x24d7 (size before relaxing)
+ .debug_str     0x00006dc3      0xdbf ./example/example_mqtt.o
+                               0x5908 (size before relaxing)
+ .debug_str     0x00007b82      0x1e7 ./custom/config/custom_sys_cfg.o
+                               0x2910 (size before relaxing)
+ .debug_str     0x00007d69      0x40a ./custom/config/sys_config.o
+                               0x2ca4 (size before relaxing)
+
+.comment        0x00000000       0x30
+ .comment       0x00000000       0x30 ./ril/src/Ril_dtmf.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 ./ril/src/ril_atResponse.o
+ .comment       0x00000000       0x31 ./ril/src/ril_audio.o
+ .comment       0x00000000       0x31 ./ril/src/ril_bluetooth.o
+ .comment       0x00000000       0x31 ./ril/src/ril_custom.o
+ .comment       0x00000000       0x31 ./ril/src/ril_gps.o
+ .comment       0x00000000       0x31 ./ril/src/ril_http.o
+ .comment       0x00000000       0x31 ./ril/src/ril_init.o
+ .comment       0x00000000       0x31 ./ril/src/ril_location.o
+ .comment       0x00000000       0x31 ./ril/src/ril_network.o
+ .comment       0x00000000       0x31 ./ril/src/ril_ntp.o
+ .comment       0x00000000       0x31 ./ril/src/ril_sim.o
+ .comment       0x00000000       0x31 ./ril/src/ril_system.o
+ .comment       0x00000000       0x31 ./ril/src/ril_telephony.o
+ .comment       0x00000000       0x31 ./ril/src/ril_urc.o
+ .comment       0x00000000       0x31 ./ril/src/ril_util.o
+ .comment       0x00000000       0x31 ./example/example_mqtt.o
+ .comment       0x00000000       0x31 ./custom/config/custom_sys_cfg.o
+ .comment       0x00000000       0x31 ./custom/config/sys_config.o
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .comment       0x00000000       0x31 D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+
+.ARM.attributes
+                0x00000000       0x2b
+ .ARM.attributes
+                0x00000000       0x2b ./ril/src/Ril_dtmf.o
+ .ARM.attributes
+                0x0000002b       0x2b ./ril/src/ril_atResponse.o
+ .ARM.attributes
+                0x00000056       0x2b ./ril/src/ril_audio.o
+ .ARM.attributes
+                0x00000081       0x2b ./ril/src/ril_bluetooth.o
+ .ARM.attributes
+                0x000000ac       0x2b ./ril/src/ril_custom.o
+ .ARM.attributes
+                0x000000d7       0x2b ./ril/src/ril_gps.o
+ .ARM.attributes
+                0x00000102       0x2b ./ril/src/ril_http.o
+ .ARM.attributes
+                0x0000012d       0x2b ./ril/src/ril_init.o
+ .ARM.attributes
+                0x00000158       0x2b ./ril/src/ril_location.o
+ .ARM.attributes
+                0x00000183       0x2b ./ril/src/ril_network.o
+ .ARM.attributes
+                0x000001ae       0x2b ./ril/src/ril_ntp.o
+ .ARM.attributes
+                0x000001d9       0x2b ./ril/src/ril_sim.o
+ .ARM.attributes
+                0x00000204       0x2b ./ril/src/ril_system.o
+ .ARM.attributes
+                0x0000022f       0x2b ./ril/src/ril_telephony.o
+ .ARM.attributes
+                0x0000025a       0x2b ./ril/src/ril_urc.o
+ .ARM.attributes
+                0x00000285       0x2b ./ril/src/ril_util.o
+ .ARM.attributes
+                0x000002b0       0x2b ./example/example_mqtt.o
+ .ARM.attributes
+                0x000002db       0x2b ./custom/config/custom_sys_cfg.o
+ .ARM.attributes
+                0x00000306       0x2b ./custom/config/sys_config.o
+ .ARM.attributes
+                0x00000331       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(fileSys.o)
+ .ARM.attributes
+                0x0000035c       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(memory.o)
+ .ARM.attributes
+                0x00000387       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_func.o)
+ .ARM.attributes
+                0x000003b2       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ql_main.o)
+ .ARM.attributes
+                0x000003dd       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_aux.o)
+ .ARM.attributes
+                0x00000408       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ril_main.o)
+ .ARM.attributes
+                0x00000433       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(stdlib_func.o)
+ .ARM.attributes
+                0x0000045e       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(system.o)
+ .ARM.attributes
+                0x00000489       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(taskMngt.o)
+ .ARM.attributes
+                0x000004b4       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(time.o)
+ .ARM.attributes
+                0x000004df       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(timer.o)
+ .ARM.attributes
+                0x0000050a       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(uart.o)
+ .ARM.attributes
+                0x00000535       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(watchdog.o)
+ .ARM.attributes
+                0x00000560       0x2b D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(gpio.o)
+ .ARM.attributes
+                0x0000058b       0x1d D:\Codes\Base\MC60_MQTT_OC_TEST\libs\gcc\libapp_start.a(ocpu_init.o)
+ .ARM.attributes
+                0x000005a8       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x000005d8       0x30 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000608       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x00000620       0x16 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000636       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000064e       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000666       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x0000067e       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000696       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x000006ae       0x18 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_arm_truncdfsf2.o)
+
+.debug_frame    0x00000000     0x1630
+ .debug_frame   0x00000000      0x10c ./ril/src/Ril_dtmf.o
+ .debug_frame   0x0000010c       0x4c ./ril/src/ril_atResponse.o
+ .debug_frame   0x00000158      0x1b4 ./ril/src/ril_audio.o
+ .debug_frame   0x0000030c      0x574 ./ril/src/ril_bluetooth.o
+ .debug_frame   0x00000880       0x28 ./ril/src/ril_custom.o
+ .debug_frame   0x000008a8      0x14c ./ril/src/ril_gps.o
+ .debug_frame   0x000009f4       0xd4 ./ril/src/ril_http.o
+ .debug_frame   0x00000ac8       0x30 ./ril/src/ril_init.o
+ .debug_frame   0x00000af8       0x80 ./ril/src/ril_location.o
+ .debug_frame   0x00000b78      0x1fc ./ril/src/ril_network.o
+ .debug_frame   0x00000d74       0x4c ./ril/src/ril_ntp.o
+ .debug_frame   0x00000dc0       0xe8 ./ril/src/ril_sim.o
+ .debug_frame   0x00000ea8      0x13c ./ril/src/ril_system.o
+ .debug_frame   0x00000fe4       0xa0 ./ril/src/ril_telephony.o
+ .debug_frame   0x00001084      0x1d8 ./ril/src/ril_urc.o
+ .debug_frame   0x0000125c       0xbc ./ril/src/ril_util.o
+ .debug_frame   0x00001318      0x274 ./example/example_mqtt.o
+ .debug_frame   0x0000158c       0x20 ./custom/config/custom_sys_cfg.o
+ .debug_frame   0x000015ac       0x38 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x000015e4       0x2c C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\arm-none-eabi\lib\thumb\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001610       0x20 C:\Program Files (x86)\CodeSourcery\Sourcery_CodeBench_Lite_for_ARM_EABI\lib\gcc\arm-none-eabi\4.7.2\thumb\libgcc.a(_udivsi3.o)
+
+.debug_ranges   0x00000000      0x748
+ .debug_ranges  0x00000000       0x70 ./ril/src/ril_audio.o
+ .debug_ranges  0x00000070      0x290 ./ril/src/ril_bluetooth.o
+ .debug_ranges  0x00000300       0x48 ./ril/src/ril_gps.o
+ .debug_ranges  0x00000348       0x30 ./ril/src/ril_network.o
+ .debug_ranges  0x00000378       0x60 ./ril/src/ril_system.o
+ .debug_ranges  0x000003d8       0x60 ./ril/src/ril_telephony.o
+ .debug_ranges  0x00000438       0x60 ./ril/src/ril_urc.o
+ .debug_ranges  0x00000498      0x2b0 ./example/example_mqtt.o
